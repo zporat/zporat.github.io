@@ -15,20 +15,11 @@ Outside of math, I enjoy rock climbing and playing trumpet.
 My research interests lie in number theory and algebraic geometry. In particular, I study automorphic forms of SL3.
 
 ## Papers
-ol {
-  counter-reset: list;
-}
-ol > li {
-  list-style: none;
-}
-ol > li:before {
-  content: counter(list) ") ";
-  counter-increment: list;
-}
 
 0. first item
 0. second item
 {: reversed="reversed"}
+{margin-left: 0}
 
 ## Teaching
 
