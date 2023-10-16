@@ -19,8 +19,7 @@ My research interests lie in number theory and algebraic geometry. In particular
 ### Papers
 
 [2] **Family Sizes for Complete Multipartite Graphs** (with Danielle Gregg, Thomas Mattman, and George Todd), *Involve, a Journal of Mathematics*, Vol. 15, No. 4 (2022), 669-686.
-
-[DOI: 10.2140/involve.2022.15.669](https://msp.org/involve/2022/15-4/p07.xhtml) 
+<small> [DOI: 10.2140/involve.2022.15.669](https://msp.org/involve/2022/15-4/p07.xhtml) </small> 
 
 [1] **PIXE Analysis of Synthetic Turf** (with Sajju Chalise, Morgan Clark, Skye Conlan, Scott LaBrake, and Michael Vineyard), *Environment and Ecology Research*, Vol. 6, No. 1 (2018), 60-65.
 
