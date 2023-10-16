@@ -4,9 +4,10 @@
 body {
     background-color: #efefef;
     padding:50px;
-    font: 16px/1.5 Ubuntu, sans-serif;
+    font: 16px Ubuntu, sans-serif;
     color:#222222;
     font-weight:400;
+    line-height: 1.5;
   }
 
   h2 {
