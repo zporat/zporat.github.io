@@ -34,5 +34,3 @@ My research interests lie in number theory and algebraic geometry. In particular
 
 I am not teaching in Fall 2023.
 
-{% include_relative _includes/publications.md %}
-
