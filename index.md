@@ -18,7 +18,7 @@ My research interests lie in number theory and algebraic geometry. In particular
 
 ### Papers
 
-<ol class='custom-marker parens-around;' reversed>
+<ol class='custom-marker parens-around' reversed>
     <li> Family Sizes for Complete Multipartite Graphs (with Danielle Gregg, Thomas Mattman, and George Todd), *Involve, a Journal of Mathematics*, Vol. 15, No. 4 (2022), 669-686. </li>
     <li>Another list here </li>
 </ol>
