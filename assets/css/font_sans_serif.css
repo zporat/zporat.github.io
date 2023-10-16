@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Vollkorn&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
-
 
 body {
     background-color: #efefef;
@@ -12,7 +10,7 @@ body {
   }
 
   h2 {
-    font-family: Nanum Gothic;
-    font-weight: 700;
+    font-family: Vollkorn;
+    font-weight: 800;
     font-size: 24px;
   }
