@@ -96,7 +96,11 @@
       <br>
 
       {% if site.enable_footnote %}
-      <p><small>&copy getFullYear() Zachary Porat</small></p>
+      <p id="date"></p>
+        <script>
+          document.getElementById("date").innerHTML = Date();
+        </script>
+      <p><small>&copy date Zachary Porat</small></p>
       {% endif %}
 
       </section>
