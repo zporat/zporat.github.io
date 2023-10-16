@@ -1,7 +1,7 @@
 body {
     background-color: #efefef;
     padding:50px;
-    font: 16px/1.5 Ubuntu;
+    font: 16px/1.5 Ubuntu, sans-serif;
     color:#595959;
     font-weight:400;
   }
