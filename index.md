@@ -6,7 +6,7 @@ layout: homepage
 
 My name is Zachary (Zack) Porat.  I am currently a PhD candidate in mathematics at Wesleyan University.  My advisor is David Pollack.
 
-Before Wesleyan, I obtained my B.S. in Mathematics from Union College.  For more information, my CV can be found below.
+Before Wesleyan, I obtained my B.S. in Mathematics from Union College.  For more information, here is a copy of my CV, last updated in March 2023 [PDF](site.cv_link).
 
 Outside of math, I enjoy rock climbing and playing trumpet. 
 
