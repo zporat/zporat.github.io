@@ -240,8 +240,8 @@ a:hover small {
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
-  padding:0 0 0 20px;
-  font-style:italic;
+  padding:0 0 0 0px;
+  font-style:bold;
 }
 
 code, pre {
@@ -515,9 +515,4 @@ footer {
   margin-left: 0px;
   display:none;
   font-family: monospace;
-}
-
-ol {
-  margin-left: 0;
-  padding-left: 0;
 }
