@@ -14,7 +14,7 @@ Outside of math, I enjoy rock climbing and playing trumpet.
 
 ## Research 
 
-My research interests lie in number theory and algebraic geometry. In particular, I study automorphic forms of SL3.
+My research interests lie in number theory and algebraic geometry. In particular, I study automorphic forms of SL(3, **Z**).
 
 ### Papers
 
@@ -24,11 +24,11 @@ My research interests lie in number theory and algebraic geometry. In particular
 [1] **PIXE Analysis of Synthetic Turf** (with Sajju Chalise, Morgan Clark, Skye Conlan, Scott LaBrake, and Michael Vineyard), *Environment and Ecology Research*, Vol. 6, No. 1 (2018), 60-65.
 [DOI: 10.13189/eer.2018.060105](https://www.hrpub.org/journals/article_info.php?aid=6770)
 
----
-
 ### Talks
 
 ### Notes
+
+---
 
 ## Teaching
 
