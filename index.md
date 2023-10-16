@@ -14,6 +14,8 @@ Outside of math, I enjoy rock climbing and playing trumpet.
 
 My research interests lie in number theory and algebraic geometry. In particular, I study automorphic forms of SL3.
 
+# Papers
+
 ## Teaching
 
 I am not teaching in Fall 2023.
