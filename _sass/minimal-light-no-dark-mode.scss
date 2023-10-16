@@ -517,7 +517,15 @@ footer {
   font-family: monospace;
 }
 
-ol {
-  padding: 50px;
-  list-style-position: outside;
+ol.custom-marker {
+  counter-reset: list;
+}
+
+ol.custom-marker > li {
+  list-style: none;
+  counter-increment: list;
+}
+
+ol.custom-marker.parens-around > li::marker {
+  content: "[" counter(list) "]\a0";
 }
