@@ -96,11 +96,10 @@
       <br>
 
       {% if site.enable_footnote %}
-      <p id="date"></p>
-        <script>
-          document.getElementById("date").innerHTML = Date();
-        </script>
       <p><small>&copy date Zachary Porat</small></p>
+      <script>
+        document.getElementById("date").innerHTML = getFullYear();
+      </script>
       {% endif %}
 
       </section>
