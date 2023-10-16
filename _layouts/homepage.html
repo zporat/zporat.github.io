@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
+
   <head>
     <title>{{ site.title }} | {{site.position}}</title>
 
@@ -43,10 +44,10 @@
         <a class="image avatar"><img class="center" style="width:80%;" src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
+        <h1 style="text-align:center">{{ site.title }}</h1>
 
         {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
+        <position style="font-size:1.10rem; text-align:center"">{{ site.position }}</position>
         <br>
         {% endif %}
         {% if site.affiliation %}
