@@ -17,7 +17,7 @@ Outside of math, I enjoy rock climbing and playing trumpet.
 My research interests lie in number theory and algebraic geometry. In particular, I study automorphic forms of SL(3, **Z**).
 
 ### Papers
-<ol reveresed>
+<ol reversed>
     <li> Test </li>
     <li> Test </li>
 </ol>
