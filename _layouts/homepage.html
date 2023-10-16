@@ -38,6 +38,13 @@
   </head>
   <body>
     <div class="wrapper">
+      <div class="topnav">
+        <a class="active" href="#home">Home</a>
+        <a href="#news">News</a>
+        <a href="#contact">Contact</a>
+        <a href="#about">About</a>
+      </div> 
+
       <header>
         
         {% if site.avatar %}
@@ -58,7 +65,7 @@
         <br>
         <div class="social-icons">
         {% if site.email %}
-        <a style="margin: 0 5px 0 0" href="mailto:{site.email}">
+        <a style="margin: 0 5px 0 0" href="mailto:zporat@wesleyan.edu">
           <i class="far fa-envelope"></i>
         </a>
         {% endif %}
