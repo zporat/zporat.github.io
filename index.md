@@ -10,6 +10,8 @@ Before Wesleyan, I obtained my B.S. in Mathematics from Union College.  For more
 
 Outside of math, I enjoy rock climbing and playing trumpet. 
 
+***
+
 ## Research 
 
 My research interests lie in number theory and algebraic geometry. In particular, I study automorphic forms of SL3.
@@ -19,7 +21,10 @@ My research interests lie in number theory and algebraic geometry. In particular
 0. first item
 0. second item
 {: reversed="reversed"}
-{margin-left: 0}
+
+## Talks
+
+## Notes
 
 ## Teaching
 
