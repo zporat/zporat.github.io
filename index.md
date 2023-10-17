@@ -21,7 +21,7 @@ My research interests lie in number theory and algebraic geometry.  In particula
 (Note that preprints may differ from the final published version.)
 
 <ol reversed style="margin-left:-20px">
-<li><b>Family Sizes for Complete Multipartite Graphs</b> (with Danielle Gregg, Thomas Mattman, and George Todd), <i>Involve, a Journal of Mathematics</i>, Vol. 15, No. 4 (2022), 669-686.</li>
+<li><b>Family Sizes for Complete Multipartite Graphs</b> (with Danielle Gregg, Thomas Mattman, and George Todd), <i>Involve, a Journal of Mathematics</i>, Vol. 15, No. 4 (2022), 669-686. [<a href="https://mathscinet.ams.org/mathscinet/article?mr=4536581">MR4536581</a>, <a href="https://msp.org/involve/2022/15-4/p07.xhtml">DOI: 10.2140/involve.2022.15.669</a>]</li>
 <ul style="list-style-type:none; font-size:14px; margin-left:-15px;">
     <li><i>Involve, a Journal of Mathematics</i>, Vol. 15, No. 4 (2022), 669-686. </li>
     <li>[<a href="https://mathscinet.ams.org/mathscinet/article?mr=4536581">MR4536581</a>, <a href="https://msp.org/involve/2022/15-4/p07.xhtml">DOI: 10.2140/involve.2022.15.669</a>]</li>
