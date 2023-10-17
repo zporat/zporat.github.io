@@ -48,6 +48,8 @@ My research interests lie in number theory and algebraic geometry.  In particula
 
 ### Notes
 
+Here are some notes and code that I have put together for one reason or another.  Please let me know if you spot any errors.  
+
 ---
 
 ## Teaching
@@ -56,7 +58,9 @@ I am not teaching in Fall 2023.
 
 While at Wesleyan, I have taught [Elementary Statistics](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005525&term=1229).  I have also been a Teaching Assistant for several courses and worked in the Math Workshop. 
 
-### LaTeX Links
+Additionally, I have run several mentorship projects as part of Wesleyan's [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).  
+
+#### LaTeX Links
 
 Here are a few LaTeX links you might find useful: 
 * [Tool for figuring out LaTeX code for math symbols](https://detexify.kirelabs.org/classify.html)
