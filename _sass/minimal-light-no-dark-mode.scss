@@ -375,7 +375,6 @@ footer {
   position:fixed;
   bottom:30px;
   -webkit-font-smoothing:subpixel-antialiased;
-
 }
 
 @media print, screen and (max-width: 1000px) {
@@ -517,5 +516,5 @@ footer {
 }
 
 body {
-  margin:0;
+  margin-left:0px;
 }
