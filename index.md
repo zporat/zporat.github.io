@@ -27,16 +27,16 @@ My research interests lie in number theory and algebraic geometry.  In particula
 ### Talks
 
 “Death at 20: The Story of Évariste Galois” (March 9, 2023) \
-<class="fas fa-map-pin"> Graduate Student Seminar, Wesleyan University
+<i class="fas fa-map-pin"></i> Graduate Student Seminar, Wesleyan University
 
 “The Search for Large Prime Numbers” (January 12, 2023) \
-Union College Math Seminar
+<i class="fas fa-map-pin"></i> Union College Math Seminar
 
 “An Introduction to Cryptography” (February 10, 2022)\
-Graduate Student Seminar, Wesleyan University
+<i class="fas fa-map-pin"></i> Graduate Student Seminar, Wesleyan University
 
 “An Introduction to Elliptic Curves” (October 14, 2021)\
-Graduate Student Seminar, Wesleyan University
+<i class="fas fa-map-pin"></i> Graduate Student Seminar, Wesleyan University
 
 
 ### Notes
