@@ -357,7 +357,6 @@ section {
   float:right;
   padding-top:1.0em;
   padding-bottom:50px;
-  margin-left:5px;
 }
 
 small {
@@ -465,6 +464,10 @@ footer {
 
   body {
     padding:15px;
+  }
+
+  section{
+    padding-left:5px;
   }
 
   header ul {
