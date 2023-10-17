@@ -21,7 +21,7 @@ My research interests lie in number theory and algebraic geometry.  In particula
 (Note that preprints may differ from the final published version.)
 
 [2] **Family Sizes for Complete Multipartite Graphs** 
-<ul style="margin-top:0">
+<ul style="margin:0">
     <li> with Danielle Gregg, Thomas Mattman, and George Todd </li>
 </ul >
 
