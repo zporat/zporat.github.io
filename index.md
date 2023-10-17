@@ -29,8 +29,8 @@ My research interests lie in number theory and algebraic geometry.  In particula
 
 <ul style="margin-left:-20px">
 <li>“Death at 20: The Story of Évariste Galois” (March 9, 2023)</li>
-<ul style="list-style-type:fas fa-map-pin">
-<li>Graduate Student Seminar, Wesleyan University</li>
+<ul>
+<li><span class="fa-li"><i class="fas fa-map-pin"></i>Graduate Student Seminar, Wesleyan University</li>
 </ul>
 </ul>
 
