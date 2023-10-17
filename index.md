@@ -54,6 +54,16 @@ My research interests lie in number theory and algebraic geometry.  In particula
 
 I am not teaching in Fall 2023.
 
+While at Wesleyan, I have taught [Elementary Statistics](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005525&term=1229).  I have also been a Teaching Assistant for several courses and worked in the Math Workshop. 
+
+### LaTeX Links
+
+Here are a few LaTeX links you might find useful: 
+* [Tool for figuring out LaTeX code for math symbols](https://detexify.kirelabs.org/classify.html)
+* [Tool for creating tables in LaTeX](https://www.tablesgenerator.com/latex_tables)
+* [Tool for creating commutative diagrams in LaTeX (TikzCD)](https://tikzcd.yichuanshen.de/)
+* [(Bonus: Fun LaTeX Typesetting game)](https://texnique.xyz/)
+
 ---
 
 ## <a name="misc"></a> Miscellaneous
