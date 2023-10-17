@@ -235,7 +235,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:1200px;
+  width:1000px;
   margin:0 auto;
 }
 
@@ -380,7 +380,7 @@ footer {
 
 }
 
-@media print, screen and (max-width: 1200px) {
+@media print, screen and (max-width: 1000px) {
 
   .pub-row {
   display: flex; 
@@ -435,7 +435,7 @@ footer {
   
 }
 
-@media print, screen and (max-width: 1200px) {
+@media print, screen and (max-width: 1000px) {
   body {
     word-wrap:break-word;
     padding:15px;
