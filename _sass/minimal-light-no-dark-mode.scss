@@ -444,7 +444,11 @@ footer {
   align-items: center;}
 
   header {
-    padding:0;
+    padding-left:15px;
+  }
+
+  section{
+    padding-left:15px;
   }
 
   header ul, header p.view {
@@ -466,9 +470,12 @@ footer {
     padding:15px;
   }
 
+  header {
+    padding-left:15px
+  }
+
   section{
-    padding-left:10px;
-    padding-right:-5px
+    padding-left:15px;
   }
 
   header ul {
