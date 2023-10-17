@@ -8,7 +8,7 @@ My name is Zachary (Zack) Porat.  I am currently a PhD candidate in mathematics 
 
 Before Wesleyan, I obtained my B.S. in Mathematics from Union College.  For more information, here is a copy of my CV, last updated in March 2023 [[**PDF**](site.cv_link)].
 
-Outside of math, I enjoy rock climbing and playing trumpet. 200px
+Outside of math, I enjoy rock climbing and playing trumpet.
 
 ---
 
