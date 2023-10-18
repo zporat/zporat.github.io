@@ -61,7 +61,6 @@ Here are some notes and code that I have put together for one reason or another.
 <ul style="margin-left:-20px">
 <li style="margin-bottom:10px;"><a href="./files/mordell_curves_torsion.pdf">Classification of Torsion Subgroups for Mordell Curves</a> (Undergraduate Honors Thesis)</li>
 <li style="margin-bottom:10px;"><a href="./files/Gk_comp.pdf">Fourier Series Computation for G<sub>k</sub></a></li>
-
 </ul>
 
 ---

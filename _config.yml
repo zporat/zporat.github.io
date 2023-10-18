@@ -1,8 +1,6 @@
 # Basic Information 
 title: Zachary Porat
-position: PhD Candidate
-department:
-department_link:
+position: PhD Candidate in Mathematics
 affiliation: Wesleyan University
 affiliation_link: https://www.wesleyan.edu/
 email: zporat@wesleyan.edu
@@ -20,8 +18,8 @@ cv_link: /files/curriculum_vitae.pdf
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.JPG
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/Z_p.png
+favicon_dark: ./assets/img/Z_p.png
 
 # Footnote
 enable_footnote: false
