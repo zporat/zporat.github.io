@@ -45,11 +45,11 @@
         <h1 style="text-align:center">{{ site.title }}</h1>
 
         {% if site.position %}
-        <position style="font-size:1.10rem; text-align:center"">{{ site.position }}</position>
+        <position style="font-size:1.10rem; text-align:center">{{ site.position }}</position>
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.department_link }}" rel="noopener">{{ site.department }}</a>
+        <a href="{{ site.department_link }}" rel="noopener"><autocolor>{{ site.department }}</autocolor></a>
         <br>
         {% endif %}
         {% if site.affiliation %}
