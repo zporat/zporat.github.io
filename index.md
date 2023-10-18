@@ -51,8 +51,8 @@ Additionally, I have run several mentorship projects as part of Wesleyan's [Dire
 Here are some notes and code that I have put together for one reason or another.  Please let me know if you find any errors.  
 
 <ul style="margin-left:-20px">
-<li style="margin-bottom:10px;"><a href="./files/mordell_curves_torsion.pdf"><b>Classification of Torsion Subgroups for Mordell Curves</b></a> (Undergraduate Honors Thesis)</li>
-<li style="margin-bottom:10px;"><a href="./files/Gk_comp.pdf"><b>Fourier Series Computation for G_k</b></a></li>
+<li style="margin-bottom:10px;"><a href="./files/mordell_curves_torsion.pdf">Classification of Torsion Subgroups for Mordell Curves</a> (Undergraduate Honors Thesis)</li>
+<li style="margin-bottom:10px;"><a href="./files/Gk_comp.pdf">Fourier Series Computation for G<sub>k</sub></a></li>
 
 </ul>
 
