@@ -48,7 +48,7 @@ While at Wesleyan, I have taught [Elementary Statistics](https://owaprod-pub.wes
 
 Additionally, I have run several mentorship projects as part of Wesleyan's [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).  
 
-#### LaTeX Links
+### LaTeX Links
 
 Here are a few LaTeX links you might find useful: 
 * [Tool for figuring out LaTeX code for math symbols](https://detexify.kirelabs.org/classify.html)
