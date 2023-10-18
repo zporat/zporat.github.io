@@ -38,7 +38,7 @@ My research interests lie in number theory and algebraic geometry.  In particula
 
 Here are some notes and code that I have put together for one reason or another.  Please let me know if you spot any errors.  
 
----
+<hr class="double">
 
 ## Teaching
 
