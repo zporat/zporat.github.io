@@ -1,8 +1,8 @@
 # Basic Information 
 title: Zachary Porat
 position: PhD Candidate
-department: Department of Mathematics and Computer Science
-department_link: https://www.wesleyan.edu/mathcs/
+department:
+department_link:
 affiliation: Wesleyan University
 affiliation_link: https://www.wesleyan.edu/
 email: zporat@wesleyan.edu
