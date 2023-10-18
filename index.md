@@ -4,19 +4,17 @@ layout: homepage
 
 ## <a name="about"></a> About Me
 
-My name is Zachary (Zack) Porat.  I am currently a PhD candidate in mathematics at Wesleyan University.  My advisor is David Pollack.
+My name is Zachary (Zack) Porat.  I am currently a PhD candidate in mathematics at [Wesleyan University](https://www.wesleyan.edu/mathcs/).  My advisor is [David Pollack](https://dpollack.web.wesleyan.edu/).
 
-Before Wesleyan, I obtained my B.S. in Mathematics from Union College.  For more information, here is a copy of my CV, last updated in March 2023 [[**PDF**](site.cv_link)].
+My research interests lie in number theory.  In particular, I study automorphic forms on congruence subgroups of SL(3, **Z**).
 
-Outside of math, I enjoy rock climbing and playing trumpet.
+Before Wesleyan, I obtained my B.S. in Mathematics from Union College.  Outside of math, I enjoy rock climbing and playing trumpet.
+
+Here is a copy of my CV, last updated in March 2023: [[PDF](site.cv_link)].
 
 ---
 
-## Research 
-
-My research interests lie in number theory and algebraic geometry.  In particular, I study automorphic forms of SL(3, **Z**).
-
-### Papers
+## Papers
 
 (Note that preprints may differ from the final published version.)
 
@@ -25,7 +23,9 @@ My research interests lie in number theory and algebraic geometry.  In particula
 <li style="margin-bottom:10px;"><b>PIXE Analysis of Synthetic Turf</b> (with Sajju Chalise, Morgan Clark, Skye Conlan, Scott LaBrake, and Michael Vineyard), <a href="https://www.hrpub.org/journals/article_info.php?aid=6770"><i>Environment and Ecology Research</i> <b>6</b>:1</a> (2018), 60-65. </li>
 </ol>
 
-### Talks
+---
+
+## Talks
 
 <ul style="margin-left:-20px">
 <li><b>Death at 20: The Story of Évariste Galois</b>, Graduate Student Seminar, Wesleyan University, March 9, 2023</li>
@@ -34,11 +34,7 @@ My research interests lie in number theory and algebraic geometry.  In particula
 <li><b>An Introduction to Elliptic Curves</b>, Graduate Student Seminar, Wesleyan University, October 14, 2021</li>
 </ul>
 
-### Notes
-
-Here are some notes and code that I have put together for one reason or another.  Please let me know if you spot any errors.  
-
-<hr class="double">
+---
 
 ## Teaching
 
@@ -48,13 +44,11 @@ While at Wesleyan, I have taught [Elementary Statistics](https://owaprod-pub.wes
 
 Additionally, I have run several mentorship projects as part of Wesleyan's [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).  
 
-### LaTeX Links
+---
 
-Here are a few LaTeX links you might find useful: 
-* [Tool for figuring out LaTeX code for math symbols](https://detexify.kirelabs.org/classify.html)
-* [Tool for creating tables in LaTeX](https://www.tablesgenerator.com/latex_tables)
-* [Tool for creating commutative diagrams in LaTeX (TikzCD)](https://tikzcd.yichuanshen.de/)
-* [(Bonus: Fun LaTeX Typesetting game)](https://texnique.xyz/)
+### Notes
+
+Here are some notes and code that I have put together for one reason or another.  Please let me know if you find any errors.  
 
 ---
 
@@ -66,3 +60,10 @@ On My Bookshelf
 
 Other Resources
 
+### LaTeX Links
+
+Here are a few LaTeX links you might find useful: 
+* [Tool for figuring out LaTeX code for math symbols](https://detexify.kirelabs.org/classify.html)
+* [Tool for creating tables in LaTeX](https://www.tablesgenerator.com/latex_tables)
+* [Tool for creating commutative diagrams in LaTeX (TikzCD)](https://tikzcd.yichuanshen.de/)
+* [(Bonus: Fun LaTeX Typesetting game)](https://texnique.xyz/)
