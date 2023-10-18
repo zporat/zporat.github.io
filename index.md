@@ -40,7 +40,7 @@ Here is a copy of my CV, last updated in March 2023: [<a href="./files/Porat_CV.
 
 I am not teaching in Fall 2023.
 
-While at Wesleyan, I have taught [Elementary Statistics](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005525&term=1229).  I have also been a Teaching Assistant for several courses and worked in the Math Workshop. 
+While at Wesleyan, I have taught [Elementary Statistics](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005525&term=1229).  I have also been a Teaching Assistant for several courses and worked in the [Math Workshop](https://www.wesleyan.edu/mathcs/math/math_workshop.html). 
 
 Additionally, I have run several mentorship projects as part of Wesleyan's [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).  
 
