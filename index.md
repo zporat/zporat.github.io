@@ -46,9 +46,14 @@ Additionally, I have run several mentorship projects as part of Wesleyan's [Dire
 
 ---
 
-### Notes
+## Expository Notes and More
 
 Here are some notes and code that I have put together for one reason or another.  Please let me know if you find any errors.  
+
+<ul style="margin-left:-20px">
+<li style="margin-bottom:10px;"><b>Death at 20: The Story of Évariste Galois</b>, Graduate Student Seminar, Wesleyan University, March 9, 2023</li>
+<li style="margin-bottom:10px;"><a href="https://www.math.union.edu/~hatleyj/student_theses/porat.pdf"><b>Classification of Torsion Subgroups for Mordell Curves</b></a>, Undergraduate Honors Thesis</li>
+</ul>
 
 ---
 
