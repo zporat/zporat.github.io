@@ -59,7 +59,7 @@ From Spring 2022 to Spring 2024, I was a co-organizer of the departmental [Gradu
 Here are some notes and code that I have put together for one reason or another.  Please let me know if you find any errors.  
 
 <ul style="margin-left:-20px">
-<li style="margin-bottom:10px;"><a href="./files/mordell_curves_torsion.pdf">Classification of Torsion Subgroups for Mordell Curves</a> (Undergraduate Honors Thesis)</li>
+<li style="margin-bottom:10px;"><a href="./files/mordell_curves_torsion.pdf">Classification of Torsion Subgroups for Mordell Curves</a> (My Undergraduate Honors Thesis)</li>
 <li style="margin-bottom:10px;"><a href="./files/Gk_comp.pdf">Fourier Series Computation for G<sub>k</sub></a></li>
 </ul>
 
