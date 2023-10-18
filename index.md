@@ -8,9 +8,9 @@ My name is Zachary (Zack) Porat.  I am currently a PhD candidate in mathematics 
 
 My research interests lie in number theory.  In particular, I study automorphic forms on congruence subgroups of SL(3, **Z**).
 
-Before Wesleyan, I obtained my B.S. in Mathematics from Union College.  Outside of math, I enjoy rock climbing and playing trumpet.
+Before Wesleyan, I obtained my B.S. in Mathematics from [Union College](https://www.union.edu/mathematics).  Outside of math, I enjoy rock climbing and playing trumpet.
 
-Here is a copy of my CV, last updated in March 2023: [[PDF](site.cv_link)].
+Here is a copy of my CV, last updated in March 2023: [[PDF](site.cv_link)]
 
 ---
 
@@ -28,10 +28,10 @@ Here is a copy of my CV, last updated in March 2023: [[PDF](site.cv_link)].
 ## Talks
 
 <ul style="margin-left:-20px">
-<li><b>Death at 20: The Story of Évariste Galois</b>, Graduate Student Seminar, Wesleyan University, March 9, 2023</li>
-<li><b>The Search for Large Prime Numbers</b>, Union College Math Seminar, January 12, 2023</li>
-<li><b>An Introduction to Cryptography</b>, Graduate Student Seminar, Wesleyan University, February 10, 2022</li>
-<li><b>An Introduction to Elliptic Curves</b>, Graduate Student Seminar, Wesleyan University, October 14, 2021</li>
+<li style="margin-bottom:10px;"><b>Death at 20: The Story of Évariste Galois</b>, Graduate Student Seminar, Wesleyan University, March 9, 2023</li>
+<li style="margin-bottom:10px;"><b>The Search for Large Prime Numbers</b>, Union College Math Seminar, January 12, 2023</li>
+<li style="margin-bottom:10px;"><b>An Introduction to Cryptography</b>, Graduate Student Seminar, Wesleyan University, February 10, 2022</li>
+<li style="margin-bottom:10px;"><b>An Introduction to Elliptic Curves</b>, Graduate Student Seminar, Wesleyan University, October 14, 2021</li>
 </ul>
 
 ---
