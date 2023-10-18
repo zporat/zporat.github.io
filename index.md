@@ -48,7 +48,7 @@ Additionally, I have run several mentorship projects as part of Wesleyan's [Dire
 
 ## Service
 
-I am currently the President of [Wesleyan's AMS Graduate Student Chapter](https://mathcs-graduate.wescreates.wesleyan.edu/ams/).  I am also one of the organizers of our [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).
+I am currently the President of Wesleyan's [AMS Graduate Student Chapter](https://mathcs-graduate.wescreates.wesleyan.edu/ams/).  I am also one of the organizers of our [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).
 
 From Spring 2022 to Spring 2024, I was a co-organizer of the departmental [Graduate Student Seminar](https://mathcs-graduate.wescreates.wesleyan.edu/gss/). 
 
