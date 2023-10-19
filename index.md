@@ -59,6 +59,9 @@ Additionally, I am a co-organizer of the departmental [Graduate Student Seminar]
 Here are some notes and code that I have put together for one reason or another.  Please let me know if you find any errors.  
 
 <ul style="margin-left:-20px">
+<li style="margin-bottom:10px;"><a href="./files/notes/Gamma0_3_Data.pdf">Computing Coset Representatives and Generators of \(\Gamma_0(3, N)\)</a>
+(<a href="./files/notes/Gamma0_3_Data.py">Code</a>)
+</li>
 <li style="margin-bottom:10px;"><a href="./files/notes/mordell_curves_torsion.pdf">Classification of Torsion Subgroups for Mordell Curves</a> (My Undergraduate Honors Thesis)</li>
 <li style="margin-bottom:10px;"><a href="./files/notes/Gk_comp.pdf">Fourier Series Computation for G<sub>k</sub></a></li>
 </ul>
