@@ -10,7 +10,7 @@ My research interests lie in number theory.  In particular, I study automorphic 
 
 Before Wesleyan, I obtained my B.S. in Mathematics from [Union College](https://www.union.edu/mathematics).  Outside of math, I enjoy rock climbing and playing trumpet.
 
-Here is a copy of my CV, last updated in March 2023: [<a href="./files/Porat_CV.pdf">PDF</a>]
+Here is a copy of my CV, last updated in September 2023: [<a href="./files/Porat_CV.pdf">PDF</a>]
 
 ---
 
