@@ -20,7 +20,7 @@ Here is a copy of my CV, last updated in March 2023: [<a href="./files/Porat_CV.
 
 <ol reversed style="margin-left:-20px">
 <li style="margin-bottom:10px;"><b>Family Sizes for Complete Multipartite Graphs</b> (with Danielle Gregg, Thomas Mattman, and George Todd), <a href="https://msp.org/involve/2022/15-4/p07.xhtml"><i>Involve, a Journal of Mathematics</i> <b>15</b>:4</a> (2022), 669-686. [<a href="https://mathscinet.ams.org/mathscinet/article?mr=4536581">MR4536581</a>]</li>
-<li style="margin-bottom:10px;"><a href="./files/pixe_turf.pdf"><b>PIXE Analysis of Synthetic Turf</b></a> (with Sajju Chalise, Morgan Clark, Skye Conlan, Scott LaBrake, and Michael Vineyard), <a href="https://www.hrpub.org/journals/article_info.php?aid=6770"><i>Environment and Ecology Research</i> <b>6</b>:1</a> (2018), 60-65. </li>
+<li style="margin-bottom:10px;"><a href="./files/papers/pixe_turf.pdf"><b>PIXE Analysis of Synthetic Turf</b></a> (with Sajju Chalise, Morgan Clark, Skye Conlan, Scott LaBrake, and Michael Vineyard), <a href="https://www.hrpub.org/journals/article_info.php?aid=6770"><i>Environment and Ecology Research</i> <b>6</b>:1</a> (2018), 60-65. </li>
 </ol>
 
 ---
@@ -59,8 +59,8 @@ From Spring 2022 to Spring 2024, I was a co-organizer of the departmental [Gradu
 Here are some notes and code that I have put together for one reason or another.  Please let me know if you find any errors.  
 
 <ul style="margin-left:-20px">
-<li style="margin-bottom:10px;"><a href="./files/mordell_curves_torsion.pdf">Classification of Torsion Subgroups for Mordell Curves</a> (My Undergraduate Honors Thesis)</li>
-<li style="margin-bottom:10px;"><a href="./files/Gk_comp.pdf">Fourier Series Computation for G<sub>k</sub></a></li>
+<li style="margin-bottom:10px;"><a href="./files/notes/mordell_curves_torsion.pdf">Classification of Torsion Subgroups for Mordell Curves</a> (My Undergraduate Honors Thesis)</li>
+<li style="margin-bottom:10px;"><a href="./files/notes/Gk_comp.pdf">Fourier Series Computation for G<sub>k</sub></a></li>
 </ul>
 
 ---
