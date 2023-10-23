@@ -86,6 +86,6 @@ Here are some notes and code that I have put together for one reason or another.
 * [Tool for creating commutative diagrams in LaTeX (TikzCD)](https://tikzcd.yichuanshen.de/)
 * [(Bonus: Fun LaTeX Typesetting game)](https://texnique.xyz/)
 
-**Friends**
+**Some (Mathematical) Friends**
 * [Jeffrey Hatley](https://www.math.union.edu/~hatleyj/)
 * [Zonia Menendez](https://zmenendez.wixsite.com/zkm78)
