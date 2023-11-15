@@ -28,7 +28,7 @@ Here is a copy of my CV, last updated in September 2023: [<a href="{{ site.cv_li
 ## Talks
 
 <ul style="margin-left:-20px">
-<li style="margin-bottom:10px;"><b>How Computers are Shaping Math</b>, Manhattan College Math Seminar, November 15, 2023</li>
+<li style="margin-bottom:10px;"><b>How Computers Are Shaping Math</b>, Manhattan College Math Seminar, November 15, 2023</li>
 <li style="margin-bottom:10px;"><b>Death at 20: The Story of Évariste Galois</b>, Graduate Student Seminar, Wesleyan University, March 9, 2023</li>
 <li style="margin-bottom:10px;"><b>The Search for Large Prime Numbers</b>, Union College Math Seminar, January 12, 2023</li>
 <li style="margin-bottom:10px;"><b>An Introduction to Cryptography</b>, Graduate Student Seminar, Wesleyan University, February 10, 2022</li>
