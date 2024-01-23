@@ -39,7 +39,7 @@ Here is a copy of my CV, last updated in December 2023: [<a href="{{ site.cv_lin
 
 ## Teaching
 
-I am not teaching in Fall 2023.
+I am not teaching in Spring 2023.
 
 While at Wesleyan, I have taught [Elementary Statistics](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005525&term=1229).  I have also been a Teaching Assistant for several courses and worked in the [Math Workshop](https://www.wesleyan.edu/mathcs/math/math_workshop.html). 
 
