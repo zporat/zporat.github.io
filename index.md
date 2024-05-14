@@ -6,11 +6,11 @@ layout: homepage
 
 My name is Zachary (Zack) Porat.  I am currently a PhD candidate in mathematics at [Wesleyan University](https://www.wesleyan.edu/mathcs/).  My advisor is [David Pollack](https://dpollack.web.wesleyan.edu/).
 
-My research interests lie in number theory.  In particular, I study automorphic forms on congruence subgroups of SL(3, **Z**).
+My research interests lie in number theory.  In particular, I study automorphic forms of congruence subgroups of SL(3, **Z**).
 
 Before Wesleyan, I obtained my B.S. in Mathematics from [Union College](https://www.union.edu/mathematics).  Outside of math, I enjoy rock climbing and playing trumpet.
 
-Here is a copy of my CV, last updated in February 2024: [<a href="{{ site.cv_link }}">PDF</a>]
+Here is a copy of my CV, last updated in May 2024: [<a href="{{ site.cv_link }}">PDF</a>]
 
 ---
 
@@ -28,11 +28,12 @@ Here is a copy of my CV, last updated in February 2024: [<a href="{{ site.cv_lin
 ## Talks
 
 <ul style="margin-left:-20px">
+<li style="margin-bottom:10px;"><b>Additional Computations of the Hecke Action on the Cuspidal Cohomology of Congruence Subgroups of SL(3, Z)</b>, 36th Automorphic Forms Workshop (Oklahoma State University), May 24, 2024</li>
 <li style="margin-bottom:10px;"><b>How Computers Are Shaping Math</b>, Manhattan College Math Seminar, November 15, 2023</li>
-<li style="margin-bottom:10px;"><b>Death at 20: The Story of Évariste Galois</b>, Graduate Student Seminar, Wesleyan University, March 9, 2023</li>
+<li style="margin-bottom:10px;"><b>Death at 20: The Story of Évariste Galois</b>, Graduate Student Seminar (Wesleyan University), March 9, 2023</li>
 <li style="margin-bottom:10px;"><b>The Search for Large Prime Numbers</b>, Union College Math Seminar, January 12, 2023</li>
-<li style="margin-bottom:10px;"><b>An Introduction to Cryptography</b>, Graduate Student Seminar, Wesleyan University, February 10, 2022</li>
-<li style="margin-bottom:10px;"><b>An Introduction to Elliptic Curves</b>, Graduate Student Seminar, Wesleyan University, October 14, 2021</li>
+<li style="margin-bottom:10px;"><b>An Introduction to Cryptography</b>, Graduate Student Seminar (Wesleyan University), February 10, 2022</li>
+<li style="margin-bottom:10px;"><b>An Introduction to Elliptic Curves</b>, Graduate Student Seminar (Wesleyan University), October 14, 2021</li>
 </ul>
 
 ---
