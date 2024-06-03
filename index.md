@@ -91,3 +91,4 @@ Here are some notes and code that I have put together for one reason or another.
 **Some (Mathematical) Friends**
 * [Jeffrey Hatley](https://www.math.union.edu/~hatleyj/)
 * [Zonia Menendez](https://zmenendez.wixsite.com/zkm78)
+* [Arianna Zikos](https://sites.google.com/view/ariannazikos)
