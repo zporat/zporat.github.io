@@ -74,7 +74,7 @@ Here are some notes and code that I have put together for one reason or another.
 
 **On My Bookshelf**
 * [A First Course in Modular Forms](https://link.springer.com/book/10.1007/978-0-387-27226-9) (Fred Diamond and Jerry Shurman)
-* [Linear Algebraic Groups](https://link.springer.com/book/10.1007/978-0-8176-4840-4) (Armand Borel)
+* [Linear Algebraic Groups](https://link.springer.com/book/10.1007/978-0-8176-4840-4) (T.A. Springer)
 * [Number Fields](https://link.springer.com/book/10.1007/978-3-319-90233-3) (Daniel A. Marcus)
 
 **Helpful Resources**
