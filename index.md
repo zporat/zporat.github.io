@@ -93,6 +93,3 @@ Here are some notes and code that I have put together for one reason or another.
 * [Zonia Menendez](https://zmenendez.wixsite.com/zkm78)
 * [Arianna Zikos](https://sites.google.com/view/ariannazikos)
 
----
-
-{% include_relative _includes/publications.md %}
