@@ -8,7 +8,7 @@ My name is Zachary (Zack) Porat.  I am currently a PhD candidate in mathematics 
 
 My research interests lie in number theory.  In particular, I study automorphic forms for congruence subgroups of SL(3, **Z**).
 
-Before Wesleyan, I obtained my B.S. in Mathematics from [Union College](https://www.union.edu/mathematics).  Outside of math, I enjoy rock climbing and playing trumpet.
+Before Wesleyan, I obtained my B.S. in Mathematics from [Union College](https://www.union.edu/mathematics).  Outside of math, I enjoy [bouldering](https://zporat.github.io/files/pictures/bouldering.jpg) and playing trumpet.
 
 Here is a copy of my CV, last updated in May 2024: [<a href="{{ site.cv_link }}">PDF</a>]
 
