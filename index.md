@@ -95,4 +95,4 @@ Here are some notes and code that I have put together for one reason or another.
 
 ---
 
-{% include_relative >includes/publications.md}
+{% include_relative _includes/publications.md}
