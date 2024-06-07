@@ -7,8 +7,8 @@
 <div class="pub-row">
   <div class="col-sm-9">
       <div class="title"><b>{{ link.title }}</b></div>
-        <ul class="fa-ul" style="margin-left:5px">
-        <li><span class="fa-li"><i class="fas fa-map-pin"></i></span><a href="{{ link.conf_website }}">{{ link.location }}</a></li>
+        <ul class="fa-ul" style="margin-left:10px">
+        <li><span class="fa-li"><i class="fas fa-map-pin"></i></span><a href="{{ link.conf_website }}">{{ link.conf }}</a>{{ link.location }}</li>
         <li><span class="fa-li"><i class="fas fa-calendar-alt"></i></span>{{ link.date }}</li>
         </ul>
   </div>

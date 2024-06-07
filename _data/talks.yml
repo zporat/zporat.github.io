@@ -1,8 +1,9 @@
 main:
 
   - title: Additional Computations of the Hecke Action on the Cuspidal Cohomology of Congruence Subgroups of SL(3, Z)
-    location: 36th Automorphic Forms Workshop (Oklahoma State University)
+    conf: 36th Automorphic Forms Workshop
     conf_website: http://automorphicformsworkshop.org/
+    location: (Oklahoma State University)
     date: May 24, 2024
 
   - title: How Computers Are Shaping Math
