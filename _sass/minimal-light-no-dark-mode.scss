@@ -531,8 +531,9 @@ footer {
 .button {
   background-color: white;
   color: black;
-  border: 2px solid #38C; 
+  border: 5px solid #38C; 
   transition-duration: 0.3s;
+  padding: 16px;
 }
 
 .button:hover {
