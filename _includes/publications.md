@@ -9,13 +9,13 @@
       </div>
     <div class="links">
       {% if link.code %} 
-      <a href="{{ link.code }}" class="button" style="font-size:14px;">Code</a>
+      <a href="{{ link.code }}" class="button" style="font-size:12px;">Code</a>
       {% endif %}
       {% if link.mr %} 
-      <a href="{{ link.mr }}" class="button" style="font-size:14px;">MathSciNet</a>
+      <a href="{{ link.mr }}" class="button" style="font-size:12px;">MathSciNet</a>
       {% endif %}
       {% if link.arxiv %} 
-      <a href="{{ link.arxiv }}" class="button" style="font-size:14px;">arXiv</a>
+      <a href="{{ link.arxiv }}" class="button" style="font-size:12px;">arXiv</a>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
