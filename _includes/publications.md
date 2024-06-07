@@ -15,7 +15,7 @@
       <a href="{{ link.mr }}" class="button" style="font-size:12px;">MathSciNet</a>
       {% endif %}
       {% if link.arxiv %} 
-      <a href="{{ link.arxiv }}" class="button" style="font-size:12px;"><b>arXiv</b></a>
+      <a href="{{ link.arxiv }}" class="button" style="font-size:12px;">arXiv</a>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
