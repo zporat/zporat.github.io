@@ -10,6 +10,16 @@ main:
     conference: Involve, a Journal of Mathematics
     volume: 15
     number: 4
-    year:
-    pages: 
+    year: 2022
+    pages: 669-686
+
+    - title: PIXE Analysis of Synthetic Turf
+    authors: with Sajju Chalise, Morgan Clark, Skye Conlan, Scott LaBrake, and Michael Vineyard
+    pdf: https://zporat.github.io/files/papers/pixe_turf.pdf
+    doi: https://www.hrpub.org/journals/article_info.php?aid=6770
+    conference: Environment and Ecology Research
+    volume: 6
+    number: 1
+    year: 2018
+    pages: 60-65
 
