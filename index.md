@@ -50,6 +50,8 @@ Additionally, from Spring 2022 through Fall 2023, I was a co-organizer of the de
 
 Here are some notes and code that I have put together for one reason or another.  Please let me know if you find any errors.  
 
+{% include_relative _includes/notes.md %}
+
 <ul style="margin-left:-20px">
 <li style="margin-bottom:10px;"><a href="./files/notes/Gamma0_3_Data.pdf">Computing Coset Representatives and Generators of &Gamma;<sub>0</sub>(3, N)</a>
 (<a href="./files/notes/Gamma0_3_Data.py">Code</a>)
