@@ -99,4 +99,4 @@ Here are some notes and code that I have put together for one reason or another.
 
 {% include_relative _includes/talks.md %}
 
- <button type="button1">Click Me!</button> 
+ <button type="button button1">Blue</button> 
