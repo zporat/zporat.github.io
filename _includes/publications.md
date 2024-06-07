@@ -24,8 +24,6 @@
   </div>
 </li>
 
-<br>
-
 {% endfor %}
 
 </ol>
