@@ -18,7 +18,7 @@
       <a href="{{ link.mr }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">MathSciNet</a>
       {% endif %}
       {% if link.arxiv %} 
-      <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">arXiv</a>
+      <a href="{{ link.arxiv }}" class="button" style="font-size:14px;">arXiv</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
