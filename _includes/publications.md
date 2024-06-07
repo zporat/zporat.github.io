@@ -1,5 +1,5 @@
 <div class="publications">
-<ol reversed style="margin-left:-20px">
+<ol reversed style="margin-left:-20px; margin-bottom:10px;">
 
 {% for link in site.data.publications.main %}
 
@@ -16,9 +16,6 @@
       {% endif %}
       {% if link.arxiv %} 
       <a href="{{ link.arxiv }}" class="button" style="font-size:14px;">arXiv</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
