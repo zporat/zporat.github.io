@@ -27,14 +27,7 @@ Here is a copy of my CV, last updated in May 2024: [<a href="{{ site.cv_link }}"
 
 ## Talks
 
-<ul style="margin-left:-20px">
-<li style="margin-bottom:10px;"><b>Additional Computations of the Hecke Action on the Cuspidal Cohomology of Congruence Subgroups of SL(3, Z)</b>, 36th Automorphic Forms Workshop (Oklahoma State University), May 24, 2024</li>
-<li style="margin-bottom:10px;"><b>How Computers Are Shaping Math</b>, Manhattan College Math Seminar, November 15, 2023</li>
-<li style="margin-bottom:10px;"><b>Death at 20: The Story of Évariste Galois</b>, Graduate Student Seminar (Wesleyan University), March 9, 2023</li>
-<li style="margin-bottom:10px;"><b>The Search for Large Prime Numbers</b>, Union College Math Seminar, January 12, 2023</li>
-<li style="margin-bottom:10px;"><b>An Introduction to Cryptography</b>, Graduate Student Seminar (Wesleyan University), February 10, 2022</li>
-<li style="margin-bottom:10px;"><b>An Introduction to Elliptic Curves</b>, Graduate Student Seminar (Wesleyan University), October 14, 2021</li>
-</ul>
+{% include_relative _includes/talks.md %}
 
 ---
 
@@ -92,11 +85,3 @@ Here are some notes and code that I have put together for one reason or another.
 * [Jeffrey Hatley](https://www.math.union.edu/~hatleyj/)
 * [Zonia Menendez](https://zmenendez.wixsite.com/zkm78)
 * [Arianna Zikos](https://sites.google.com/view/ariannazikos)
-
----
- 
-## Talks Test
-
-{% include_relative _includes/talks.md %}
-
- <button class="button">Test Blue</button> 
