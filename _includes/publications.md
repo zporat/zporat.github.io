@@ -1,5 +1,5 @@
 <div class="publications">
-<ol reversed style="margin-left:-20px; margin-bottom:10px;">
+<ol reversed style="margin-left:-20px">
 
 {% for link in site.data.publications.main %}
 
