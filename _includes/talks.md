@@ -1,4 +1,4 @@
-<div class="publications">
+<div class="talks">
 <ul style="margin-left:-20px">
 
 {% for link in site.data.talks.main %}
