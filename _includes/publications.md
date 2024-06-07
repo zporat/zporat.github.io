@@ -5,9 +5,7 @@
 
 <li>
   <div class="col-sm-9">
-      <div class="title"><a href="{{ link.pdf }}"><b>{{ link.title }}</b></a></div>
-      <div class="author">({{ link.authors }})</div>
-      <div class="periodical"><a href="{{ link.doi }}"> <em>{{ link.journal }}</em> <b>{{ link.volume }}</b>:{{ link.number }}</a> ({{ link.year }}), {{ link.pages }}
+      <div class="title"><a href="{{ link.pdf }}"><b>{{ link.title }}</b></a></div> <div class="author">({{ link.authors }})</div> <div class="periodical"><a href="{{ link.doi }}"> <em>{{ link.journal }}</em> <b>{{ link.volume }}</b>:{{ link.number }}</a> ({{ link.year }}), {{ link.pages }}.
       </div>
     <div class="links">
       {% if link.pdf %} 
@@ -30,7 +28,6 @@
       {% endif %}
     </div>
   </div>
-</div>
 </li>
 
 <br>
