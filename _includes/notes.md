@@ -13,7 +13,7 @@
     </div>
     <div class="links">
       {% if link.code %} 
-      <a href="{{ link.code }}" class="button" style="font-size:12px;">Code</a>
+      <a href="{{ link.code }}" class="button" style="font-size:12px;"><i class="fas fa-download"></i> Code</a>
       {% endif %}
     </div>
   </div>
