@@ -73,6 +73,7 @@ Here are some notes and code that I have put together for one reason or another.
 * [(Bonus: Fun LaTeX Typesetting game)](https://texnique.xyz/)
 
 **Some (Mathematical) Friends**
+* [Lydia Ahlstrom](https://sites.google.com/wesleyan.edu/lydiaahlstrom/home)
 * [Jeffrey Hatley](https://www.math.union.edu/~hatleyj/)
 * [Zonia Menendez](https://zmenendez.wixsite.com/zkm78)
 * [Arianna Zikos](https://sites.google.com/view/ariannazikos)
