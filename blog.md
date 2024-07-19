@@ -1,6 +1,6 @@
 ---
-layout: homepage
-permalink: /blog
+layout: blog
+permalink: /blog/
 ---
 
 ## A Mostly Mathematical Travelogue
