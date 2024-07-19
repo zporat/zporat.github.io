@@ -46,7 +46,7 @@ Additionally, from Spring 2022 through Fall 2023, I was a co-organizer of the de
 
 ---
 
-## Expository Notes and More
+## <a name="notes"></a>Expository Notes and More
 
 Here are some notes and code that I have put together for one reason or another.  Please let me know if you find any errors.  
 
