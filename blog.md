@@ -1,5 +1,6 @@
 ---
 layout: blog
+permalink: /blog
 ---
 
 ## <a href="blog"></a> A Mostly Mathematical Travelogue
