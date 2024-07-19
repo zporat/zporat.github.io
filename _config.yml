@@ -5,10 +5,13 @@ affiliation: Wesleyan University
 affiliation_link: https://www.wesleyan.edu/mathcs/
 email: zporat@wesleyan.edu
 
+blog_title: A Mostly Mathematical Travelogue
+
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: zack porat, zachary porat, zachary porat math, zack porat math, zachary porat wesleyan, zack porat wesleyan, zachary porat modular forms, zack porat modular forms 
 description: Zachary Porat is a PhD candidate in mathematics at Wesleyan University.  His research interests lie in number theory.  His advisor is David Pollack.
+blog_description: A blog about mostly mathematical travels. 
 canonical: zporat.github.io
 
 # Links 
