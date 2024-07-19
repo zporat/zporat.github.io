@@ -5,4 +5,4 @@ permalink: /blog
 
 ## A Mostly Mathematical Travelogue
 
-My name is Zachary (Zack) Porat. I am currently a PhD candidate in mathematics at Wesleyan University.  This blog is meant to chronicle my mostly mathematical travels as a grad student. 
+Welcome to my blog!  Here, I chronicle my mostly mathematical travels as a grad student studying number theory.  If you have somehow stumbled here accidentally, return to my [homepage](https://zporat.github.io). 
