@@ -8,3 +8,13 @@ permalink: /blog
 Welcome to my blog!  Here, I chronicle my mostly mathematical travels as a grad student studying number theory.  
 
 If you have somehow stumbled here accidentally and were actually looking for information about me, please visit my [homepage](https://zporat.github.io). 
+
+---
+
+{% for post in site.posts %}
+
+<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+<p><small> <i class="fas fa-calendar-alt"></i> {{ post.date}}</small></p>    
+
+---
+{% endfor %}
