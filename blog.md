@@ -14,7 +14,7 @@ If you have somehow stumbled here accidentally and were actually looking for inf
 {% for post in site.posts %}
 
 <h3 style="font-size: 120%"><a href="{{ post.url }}">{{ post.title }}</a></h3> 
-<p> {{ post.content }} </p>
+<p> {{ post.excerpt }} </p>
 <p style="color: #595959; font-size:13px"> Posted on {{ post.pubDate }} </p>   
 
 ---
