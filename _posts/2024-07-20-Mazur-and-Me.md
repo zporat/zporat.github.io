@@ -15,7 +15,7 @@ Following his final talk, I lingered around for a bit, hoping for the chance to 
 
 I also asked him for a picture, to which he happily agreed.  Here is the image:
 ![Mazur and Me](https://zporat.github.io/files/pictures/Mazur_and_Me.jpg "Mazur and Me")  
-I am so grateful to have had the opportunity to meet the man who helped set in motion this long, strange trip.  Getting a PhD in math is hard, but the chance to travel all over, learning interesting math and meeting inspiring people is truly a wonderful journey.  
+I am so grateful to have had the opportunity to meet the man who helped set in motion this long, strange trip.  Getting a PhD in math is hard, but the chance to travel all over, learning interesting math and meeting inspiring people is truly a wonderful adventure.  
 
 [^1]: B. Mazur, *Modular curves and the Eisenstein ideal*, Publications Mathématiques de l'Institut des Hautes Études Scientifiques **47** (1977), no. 1, 33-186. [[Link](http://www.numdam.org/item/PMIHES_1977__47__33_0/)]
 
