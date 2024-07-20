@@ -44,6 +44,10 @@ remote_theme: yaoyao-liu/minimal-light
 plugins:
   - jekyll-feed
 
+jekyll-feed:
+  title: A Mostly Mathematical Travelogue
+
+
 # The following files will be removed from the generated website.
 exclude:
   - Gemfile
