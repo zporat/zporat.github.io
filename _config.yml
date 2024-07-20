@@ -41,9 +41,9 @@ font: "Sans Serif" # or "Sans Serif"
 remote_theme: yaoyao-liu/minimal-light
 
 feed:
-  url: https://zporat.github.io/blog.html/
+  url: https://zporat.github.io/blog.html
   title: A Mostly Mathematical Travelogue
-  subtitle: A blog about mostly mathematical travels. 
+  subtitle: A blog about mostly mathematical travels by Zachary Porat.
 
 # The following files will be removed from the generated website.
 exclude:
