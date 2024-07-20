@@ -40,6 +40,9 @@ font: "Sans Serif" # or "Sans Serif"
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
 
+plugins:
+  - jekyll-feed
+
 feed:
   url: https://zporat.github.io/blog.html
   title: A Mostly Mathematical Travelogue
