@@ -14,7 +14,7 @@ If you have somehow stumbled here accidentally and were actually looking for inf
 {% for post in site.posts %}
 
 <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-<p><small> <i class="fas fa-calendar-alt"></i> {{ post.date }}</small></p>    
+<p><small> <i class="fas fa-calendar-alt"></i> {{ post.pubDate }}</small></p>    
 <p> {{ post.content }} </p>
 
 ---
