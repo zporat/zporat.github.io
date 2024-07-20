@@ -5,7 +5,7 @@ layout: none
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>{{ site.feed.title | xml_escape }}</title>
-		<description>{% if site.feed.description %}{{ site.feed.description | xml_escape }}{% endif %}</description>		
+		<description>{% if site.feed.subtitle %}{{ site.feed.subtitle| xml_escape }}{% endif %}</description>		
 		<link>{{ site.feed.url }}</link>
 		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
 		{% for post in site.posts limit:10 %}
