@@ -45,7 +45,7 @@ remote_theme: yaoyao-liu/minimal-light
 #  - jekyll-feed
 
 feed:
-  url: https://zporat.github.io/blog.html
+  url: https://zporat.github.io/blog.html/
   title: A Mostly Mathematical Travelogue
   subtitle: A blog about mostly mathematical travels. 
 
