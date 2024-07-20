@@ -21,7 +21,8 @@ If you have somehow stumbled here accidentally and were actually looking for inf
 </style>
 
 <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-<p><small> Posted on {{ post.pubDate }}</small></p>    
+
+<p style="color: #595959"> Posted on {{ post.pubDate }} </p>    
 
 <p> {{ post.content }} </p>
 
