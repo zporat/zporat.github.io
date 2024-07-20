@@ -22,7 +22,7 @@ If you have somehow stumbled here accidentally and were actually looking for inf
 
 <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 
-<p style="color: #595959"> Posted on {{ post.pubDate }} </p>    
+<p style="color: #595959"> <font size="-2"> Posted on {{ post.pubDate }} </font>  </p>    
 
 <p> {{ post.content }} </p>
 
