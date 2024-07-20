@@ -49,6 +49,9 @@ feed:
   title: A Mostly Mathematical Travelogue
   subtitle: A blog about mostly mathematical travels. 
 
+whitelist:
+  - jekyll-feed
+
 
 # The following files will be removed from the generated website.
 exclude:
