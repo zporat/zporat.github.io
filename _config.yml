@@ -41,8 +41,8 @@ font: "Sans Serif" # or "Sans Serif"
 remote_theme: yaoyao-liu/minimal-light
 
 # Plugins
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 feed:
   url: https://zporat.github.io/blog.html
