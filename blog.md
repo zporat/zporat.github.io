@@ -16,11 +16,13 @@ If you have somehow stumbled here accidentally and were actually looking for inf
 <style>
     h3 + p {
         line-height: 0px;
+        margin-top: 0px;
     }
 </style>
 
 <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 <p><small> Posted on {{ post.pubDate }}</small></p>    
+
 <p> {{ post.content }} </p>
 
 ---
