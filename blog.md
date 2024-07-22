@@ -17,8 +17,8 @@ All opinions expressed here are my own and do not necessarily reflect the opinio
 
 {% for post in site.posts %}
 
-<h3 style="font-size: 120%"><a href="{{ post.url }}">{{ post.title }}</a></h3> 
-<p style="color: #595959; font-size:13px"> Posted on {{ post.pubDate }} </p>
+<h3 style="font-size: 120%; margin-bottom: 0; padding-bottom: 0" ><a href="{{ post.url }}">{{ post.title }}</a></h3> 
+<p style="color: #595959; font-size:13px; margin-top: 0; padding-top: 0"> Posted on {{ post.pubDate }} </p>
 <p> {{ post.content }} </p>
    
 ---
