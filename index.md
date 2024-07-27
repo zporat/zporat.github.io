@@ -75,5 +75,8 @@ Here are some notes and code that I have put together for one reason or another.
 **Some (Mathematical) Friends**
 * [Lydia Ahlstrom](https://sites.google.com/wesleyan.edu/lydiaahlstrom/home)
 * [Jeffrey Hatley](https://www.math.union.edu/~hatleyj/)
+* [Freddy Saia](https://fsaia.github.io/site/)
 * [Zonia Menendez](https://zmenendez.wixsite.com/zkm78)
+* [Benjamin York](https://benjamin-york.github.io/)
+* [Eric Zhu](https://ericzhu0.wordpress.com/)
 * [Arianna Zikos](https://sites.google.com/view/ariannazikos)
