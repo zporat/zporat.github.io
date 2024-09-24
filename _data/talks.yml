@@ -1,5 +1,11 @@
 main:
 
+  - title: Computations Directly on the Cuspidal Cohomology of Congruence Subgroups of SL(3, Z)
+    conf: Conférence de Théorie des Nombres Québec-Maine
+    conf_website: https://maine-quebec.mat.ulaval.ca/24/qm24.html
+    location: (Université Laval)
+    date: October 6, 2024 (Upcoming)
+
   - title: Additional Computations of the Hecke Action on the Cuspidal Cohomology of Congruence Subgroups of SL(3, Z)
     conf: 36th Automorphic Forms Workshop
     conf_website: http://automorphicformsworkshop.org/pastworkshops/2024/index.html
@@ -10,18 +16,7 @@ main:
     location: Manhattan College Math Seminar
     date: November 15, 2023
 
-  - title: "Death at 20: The Story of Évariste Galois"
-    location: Graduate Student Seminar (Wesleyan University)
-    date: March 9, 2023
-
   - title: The Search for Large Prime Numbers
     location: Union College Math Seminar
     date: January 12, 2023
 
-  - title: An Introduction to Cryptography
-    location: Graduate Student Seminar (Wesleyan University)
-    date: February 10, 2022
-
-  - title: An Introduction to Elliptic Curves
-    location: Graduate Student Seminar (Wesleyan University)
-    date: October 14, 2021
