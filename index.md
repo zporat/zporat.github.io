@@ -22,7 +22,7 @@ Here is a copy of my CV, last updated in May 2024: <a href="{{ site.cv_link }}" 
 
 ---
 
-## Recent/Upcoming Talks
+## Recent and Upcoming Talks
 
 {% include_relative _includes/talks.md %}
 
