@@ -10,9 +10,10 @@
       </div>
       {% endif %}
       {% if link.arxiv %} 
-     <div class="title"><b>{{ link.title }}</b>, {{ link.status }}. </div>
+      <div class="title"><b>{{ link.title }}</b>, {{ link.status }}. </div>
       {% endif %}
-    <div class="links">
+      <div style="height:3px;font-size:1px;">&nbsp;</div>
+      <div class="links">
       {% if link.mr %} 
       <a href="{{ link.mr }}" class="button" style="font-size:12px;"><i class="fas fa-external-link-alt" aria-hidden="true"></i>&nbsp; MathSciNet</a>
       {% endif %}
