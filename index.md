@@ -30,9 +30,9 @@ Here is a copy of my CV, last updated in October 2024: <a href="{{ site.cv_link 
 
 ## Teaching
 
-I am teaching Calculus I (Math 121-04) in Fall 2024.
+I am not teaching in Spring 2025.
 
-While at Wesleyan, I have taught [Elementary Statistics](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005525&term=1229).  I have also been a Teaching Assistant for several courses and worked in the [Math Workshop](https://www.wesleyan.edu/mathcs/math/math_workshop.html). 
+While at Wesleyan, I have taught [Calculus I](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005517&term=1249) and [Elementary Statistics](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005525&term=1229).  I have also been a Teaching Assistant for several courses and worked in the [Math Workshop](https://www.wesleyan.edu/mathcs/math/math_workshop.html). 
 
 Additionally, I have run several mentorship projects as part of Wesleyan's [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).  
 
@@ -74,9 +74,10 @@ Here are some notes and code that I have put together for one reason or another.
 
 **Some (Mathematical) Friends**
 * [Lydia Ahlstrom](https://sites.google.com/wesleyan.edu/lydiaahlstrom/home)
+* [Erik Davis](https://davis7e.wordpress.com/)
+* [Steven Groen](https://sites.google.com/view/stevengroen)
 * [Jeffrey Hatley](https://www.math.union.edu/~hatleyj/)
-* [Freddy Saia](https://fsaia.github.io/site/)
 * [Zonia Menendez](https://zmenendez.wixsite.com/zkm78)
+* [Freddy Saia](https://fsaia.github.io/site/)
 * [Benjamin York](https://benjamin-york.github.io/)
-* [Eric Zhu](https://ericzhu0.wordpress.com/)
 * [Arianna Zikos](https://sites.google.com/view/ariannazikos)
