@@ -45,7 +45,7 @@ marker.bindPopup("<b>ANTS XVI</b><br>Massachusetts Institute of Technology (2024
 var marker = L.marker([32.23215218707289, -110.95356216073793]).addTo(map);
 marker.bindPopup("<b>Arizona Winter School: Abelian Varieties</b><br>University of Arizona (2024) | <a href='https://zporat.github.io/2024/07/20/Mazur-and-Me.html'>Blog Post</a>")
 </script>
-
+<br>
 If you have somehow stumbled here accidentally and were actually looking for information about me, please visit my [homepage](https://zporat.github.io). 
 
 All opinions expressed here are my own and do not necessarily reflect the opinions of the institutions that I represent.  
