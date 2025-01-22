@@ -15,14 +15,13 @@ Here is a map of the places I have been because of math!  Click the pins to see 
 </div>
 <script>
 var map = L.map('map').setView([40, -96], 3.5);
-L.tileLayer('http://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',{
+L.tileLayer('http://basemaps.cartocdn.com/rastertiles/voyager/{5}/{x}/{y}{r}.png',{
 tileSize: 512,
 zoomOffset: -1,
 minZoom: 1,
 attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> Contributors | &copy; <a href="https://carto.com/attributions">CARTO</a>',
 crossOrigin: true
 }).addTo(map);
-
 
 var marker = L.marker([42.38671656025372, -72.53139561620192]).addTo(map);
 marker.bindPopup("<b>AMS Fall Eastern Sectional Meeting</b><br>University of Massachusetts, Amherst (2022)")
