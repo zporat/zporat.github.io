@@ -15,7 +15,7 @@ Here is a map of the places I have been because of math!  Click the pins to see 
 </div>
 <script>
 var map = L.map('map').setView([40, -96], 3.5);
-L.tileLayer('http://basemaps.cartocdn.com/rastertiles/voyager/{5}/{x}/{y}{r}.png',{
+L.tileLayer('http://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{@2x}.png',{
 tileSize: 512,
 zoomOffset: -1,
 minZoom: 1,
