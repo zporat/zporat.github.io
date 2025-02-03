@@ -13,6 +13,9 @@ Below is a map of the places I have been because of math!  Click the pins to see
 
 <div id="map">
 </div>
+style>
+img.huechange { filter: hue-rotate(120deg); }
+</style>
 <script>
 var map = L.map('map').setView([40, -96], 3.5);
 L.tileLayer('https://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{@2x}.png',{
@@ -23,26 +26,29 @@ attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStree
 crossOrigin: true
 }).addTo(map);
 
+var marker = L.marker([42.81806585736163, -73.92945616036035]).addTo(map);
+marker.bindPopup("<b>10th Annual Upstate Number Theory Conference </b><br>Union College (2021)");
+
 var marker = L.marker([42.38671656025372, -72.53139561620192]).addTo(map);
-marker.bindPopup("<b>AMS Fall Eastern Sectional Meeting</b><br>University of Massachusetts, Amherst (2022)")
+marker.bindPopup("<b>AMS Fall Eastern Sectional Meeting</b><br>University of Massachusetts, Amherst (2022)");
 
 var marker = L.marker([41.813850048276755, -72.24530786395005]).addTo(map);
-marker.bindPopup("<b>Connecticut Summer School in Number Theory Conference</b><br>University of Connecticut (2024, 2022, 2020)")
-
-var marker = L.marker([42.81806585736163, -73.92945616036035]).addTo(map);
-marker.bindPopup("<b>10th Annual Upstate Number Theory Conference </b><br>Union College (2021)")
-
-var marker = L.marker([46.781893208622165, -71.27477458903167]).addTo(map);
-marker.bindPopup("<b>Québec-Maine Number Theory Conference</b><br>Université Laval (2024) | <a href='https://zporat.github.io/2024/10/29/Maine-Quebec.html'>Blog Post</a>")
-
-var marker = L.marker([36.12695329683634, -97.07361084686573]).addTo(map);
-marker.bindPopup("<b>36th Automorphic Forms Workshop</b><br>Oklahoma State University (2024)")
-
-var marker = L.marker([42.36040006373788, -71.09417772764208]).addTo(map);
-marker.bindPopup("<b>ANTS XVI</b><br>Massachusetts Institute of Technology (2024) | <a href='https://zporat.github.io/2024/07/27/ANTS.html'>Blog Post</a>")
+marker.bindPopup("<b>Connecticut Summer School in Number Theory Conference</b><br>University of Connecticut (2024, 2022, 2020)");
 
 var marker = L.marker([32.23215218707289, -110.95356216073793]).addTo(map);
-marker.bindPopup("<b>Arizona Winter School: Abelian Varieties</b><br>University of Arizona (2024) | <a href='https://zporat.github.io/2024/07/20/Mazur-and-Me.html'>Blog Post</a>")
+marker.bindPopup("<b>Arizona Winter School: Abelian Varieties</b><br>University of Arizona (2024) | <a href='https://zporat.github.io/2024/07/20/Mazur-and-Me.html'>Blog Post</a>");
+
+var marker = L.marker([36.12695329683634, -97.07361084686573]).addTo(map);
+marker.bindPopup("<b>36th Automorphic Forms Workshop</b><br>Oklahoma State University (2024)");
+
+var marker = L.marker([42.36040006373788, -71.09417772764208]).addTo(map);
+marker.bindPopup("<b>ANTS XVI</b><br>Massachusetts Institute of Technology (2024) | <a href='https://zporat.github.io/2024/07/27/ANTS.html'>Blog Post</a>");
+
+var marker = L.marker([46.781893208622165, -71.27477458903167]).addTo(map);
+marker.bindPopup("<b>Québec-Maine Number Theory Conference</b><br>Université Laval (2024) | <a href='https://zporat.github.io/2024/10/29/Maine-Quebec.html'>Blog Post</a>");
+
+var marker = L.marker([43.07567492785315, -89.41538286572123]).addTo(map);
+marker._icon.classList.add("huechange");
 </script>
 <br>
 If you have somehow stumbled here accidentally and were actually looking for information about me, please visit my [homepage](https://zporat.github.io). 
