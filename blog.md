@@ -9,7 +9,7 @@ Welcome to my blog!  Here, I chronicle my mostly mathematical travels as a grad 
 
 A complete archive of my blog posts can be found [here](https://zporat.github.io/archive.html).  Copy my RSS feed link to add this blog to your favorite RSS reader: <a href="https://zporat.github.io/feed" class="button" style="font-size:12px;"><i class="fas fa-rss" aria-hidden="true"></i>&nbsp; RSS Feed</a>
 
-Below is a map of the places I have been because of math!  Click the pins to see what conferences took me where, and find the blog post about that conference if I have one! 
+Below is a map of the places I have been because of math!  Click the blue pins to see what conferences took me where, and find the blog post about that conference if I have one! Click the red pins to see 
 
 <div id="map">
 </div>
@@ -49,6 +49,10 @@ marker.bindPopup("<b>Québec-Maine Number Theory Conference</b><br>Université L
 
 var marker = L.marker([43.07567492785315, -89.41538286572123]).addTo(map);
 marker._icon.classList.add("huechange");
+marker.bindPopup("<b>AWM Research Symposium</b><br>University of Wisconsin–Madison (2025)");
+
+
+
 </script>
 <br>
 If you have somehow stumbled here accidentally and were actually looking for information about me, please visit my [homepage](https://zporat.github.io). 
