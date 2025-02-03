@@ -13,7 +13,7 @@ Below is a map of the places I have been because of math!  Click the pins to see
 
 <div id="map">
 </div>
-style>
+<style>
 img.huechange { filter: hue-rotate(120deg); }
 </style>
 <script>
@@ -39,13 +39,13 @@ var marker = L.marker([32.23215218707289, -110.95356216073793]).addTo(map);
 marker.bindPopup("<b>Arizona Winter School: Abelian Varieties</b><br>University of Arizona (2024) | <a href='https://zporat.github.io/2024/07/20/Mazur-and-Me.html'>Blog Post</a>");
 
 var marker = L.marker([36.12695329683634, -97.07361084686573]).addTo(map);
-marker.bindPopup("<b>36th Automorphic Forms Workshop</b><br>Oklahoma State University (2024)")
+marker.bindPopup("<b>36th Automorphic Forms Workshop</b><br>Oklahoma State University (2024)");
 
 var marker = L.marker([42.36040006373788, -71.09417772764208]).addTo(map);
 marker.bindPopup("<b>ANTS XVI</b><br>Massachusetts Institute of Technology (2024) | <a href='https://zporat.github.io/2024/07/27/ANTS.html'>Blog Post</a>");
 
 var marker = L.marker([46.781893208622165, -71.27477458903167]).addTo(map);
-marker.bindPopup("<b>Québec-Maine Number Theory Conference</b><br>Université Laval (2024) | <a href='https://zporat.github.io/2024/10/29/Maine-Quebec.html'>Blog Post</a>")
+marker.bindPopup("<b>Québec-Maine Number Theory Conference</b><br>Université Laval (2024) | <a href='https://zporat.github.io/2024/10/29/Maine-Quebec.html'>Blog Post</a>");
 
 var marker = L.marker([43.07567492785315, -89.41538286572123]).addTo(map);
 marker._icon.classList.add("huechange");
