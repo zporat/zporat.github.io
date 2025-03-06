@@ -79,5 +79,6 @@ Here are some notes and code that I have put together for one reason or another.
 * [Jeffrey Hatley](https://www.math.union.edu/~hatleyj/)
 * [Zonia Menendez](https://zmenendez.wixsite.com/zkm78)
 * [Freddy Saia](https://fsaia.github.io/site/)
+* [Jacob Tolman](https://sites.google.com/wesleyan.edu/jacob-tolman/home)
 * [Benjamin York](https://benjamin-york.github.io/)
 * [Arianna Zikos](https://sites.google.com/view/ariannazikos)
