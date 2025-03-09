@@ -1,5 +1,17 @@
 main:
 
+  - title: Heuristics for (Ir)reducibility of Strata of the Moduli Space of Hyperelliptic Curves
+    conf: AWM Research Symposium Special Session on Curves and Abelian Varieties in Characteristic p
+    conf_website: https://awm-math.org/meetings/awm-research-symposium/
+    location: (University of Wisconsin-Madison)
+    date: Upcoming
+
+  - title: The Evolving Role of Computers in Mathematics
+    conf: AMS New England Graduate Student Conference 
+    conf_website: https://sites.google.com/brown.edu/amsgradconference/home
+    location: (Brown University)
+    date: Upcoming
+
   - title: Computations Directly on the Cuspidal Cohomology of Congruence Subgroups of SL(3, Z)
     conf: Conférence de Théorie des Nombres Québec-Maine
     conf_website: https://maine-quebec.mat.ulaval.ca/24/qm24.html
