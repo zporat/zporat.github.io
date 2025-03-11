@@ -3,33 +3,33 @@ main:
   - title: Heuristics for (Ir)reducibility of Strata of the Moduli Space of Hyperelliptic Curves
     conf: AWM Research Symposium
     conf_website: https://awm-math.org/meetings/awm-research-symposium/
-    location: University of Wisconsin-Madison
+    location: (University of Wisconsin-Madison)
     spec_session: Special Session on Curves and Abelian Varieties in Characteristic p
     date: Upcoming
 
   - title: The Evolving Role of Computers in Mathematics
     conf: AMS New England Graduate Student Conference 
     conf_website: https://sites.google.com/brown.edu/amsgradconference/home
-    location: Brown University
+    location: (Brown University)
     date: Upcoming
 
   - title: Computations Directly on the Cuspidal Cohomology of Congruence Subgroups of SL(3, Z)
     conf: Conférence de Théorie des Nombres Québec-Maine
     conf_website: https://maine-quebec.mat.ulaval.ca/24/qm24.html
-    location: Université Laval
+    location: (Université Laval)
     date: October 6, 2024
 
   - title: Additional Computations of the Hecke Action on the Cuspidal Cohomology of Congruence Subgroups of SL(3, Z)
     conf: 36th Automorphic Forms Workshop
     conf_website: http://automorphicformsworkshop.org/pastworkshops/2024/index.html
-    location: Oklahoma State University
+    location: (Oklahoma State University)
     date: May 24, 2024
 
   - title: How Computers Are Shaping Math
-    conf: Manhattan College Math Seminar
+    location: Manhattan College Math Seminar
     date: November 15, 2023
 
   - title: The Search for Large Prime Numbers
-    conf: Union College Math Seminar
+    location: Union College Math Seminar
     date: January 12, 2023
 
