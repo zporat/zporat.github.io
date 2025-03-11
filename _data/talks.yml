@@ -1,9 +1,10 @@
 main:
 
   - title: Heuristics for (Ir)reducibility of Strata of the Moduli Space of Hyperelliptic Curves
-    conf: AWM Research Symposium Special Session on Curves and Abelian Varieties in Characteristic p
+    conf: AWM Research Symposium
     conf_website: https://awm-math.org/meetings/awm-research-symposium/
     location: (University of Wisconsin-Madison)
+    spec_session: Special Session on Curves and Abelian Varieties in Characteristic p
     date: Upcoming
 
   - title: The Evolving Role of Computers in Mathematics
