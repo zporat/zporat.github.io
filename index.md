@@ -30,7 +30,7 @@ Here is a copy of my CV, last updated in October 2024: <a href="{{ site.cv_link 
 
 ## Teaching
 
-I am presenting a mini-course on mathematical cryptology at [SWiM@Wes 2025](https://mathcs-graduate.wescreates.wesleyan.edu/ams/swim-2025/).
+I am presenting a mini-course on mathematical cryptology at [SWiM@Wes 2025](https://mathcs-graduate.wescreates.wesleyan.edu/ams/swim-2025/).  I will be serving as a project assistant at [Arithmetic Geometry at UNT](https://sites.google.com/view/arithmetic-geometry-at-unt/).
 
 I am not teaching in Spring 2025.
 
