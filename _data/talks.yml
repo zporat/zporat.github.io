@@ -1,10 +1,22 @@
 main:
 
+  - title: Talk Title TBD
+    conf: 33èmes Journées Arithmétiques
+    conf_website: https://www.uni.lu/fstm-en/conferences/ja25/
+    location: (University of Luxembourg)
+    date: Upcoming
+
   - title: Heuristics for (Ir)reducibility of Strata of the Moduli Space of Hyperelliptic Curves
     conf: AWM Research Symposium
     conf_website: https://awm-math.org/meetings/awm-research-symposium/
     location: (University of Wisconsin-Madison)
     spec_session: Special Session on Curves and Abelian Varieties in Characteristic p
+    date: Upcoming
+
+  - title: Talk Title TBD
+    conf: 37th Automorphic Forms Workshop
+    conf_website: http://automorphicformsworkshop.org/index.html
+    location: (University of North Texas)
     date: Upcoming
 
   - title: The Evolving Role of Computers in Mathematics

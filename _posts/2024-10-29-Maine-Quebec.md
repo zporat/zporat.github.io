@@ -5,7 +5,7 @@ date: 2024-10-29
 pubDate: October 29, 2024
 ---
 
-I recently returned from a weekend in the city of Québec, where I attended the [Québec-Maine Number Theory Conference](https://archimede.mat.ulaval.ca/MAINE-QUEBEC/24/qm24.html) at Université Laval.  Before the trip, I expected today's blog post to be brief.  A weekend conference didn't seem likely to offer a compelling story--let alone one with a moral, as in my previous posts.  Instead, I intended to use this post as an opportunity to announce my first solo preprint, which can be found here: [arXiv:2410.02734](https://arxiv.org/abs/2410.02734).
+I recently returned from a weekend in the city of Québec, where I attended the [Québec-Maine Number Theory Conference](https://maine-quebec.mat.ulaval.ca/24/qm24.html) at Université Laval.  Before the trip, I expected today's blog post to be brief.  A weekend conference didn't seem likely to offer a compelling story--let alone one with a moral, as in my previous posts.  Instead, I intended to use this post as an opportunity to announce my first solo preprint, which can be found here: [arXiv:2410.02734](https://arxiv.org/abs/2410.02734).
 
 I am happy to report that I was wrong, and so I will now (briefly) wax poetic on my perfect weekend!  My travel companion throughout this journey was my undergrad advisor, Jeff, who has since become a mentor and close friend.  I made my way to Albany on Friday morning, and then we proceeded onward together.  Once in Québec, we quickly made our way to the old city.  We meandered through the Plains of Abraham and Parc du Bastion-de-la-Reine, which gave way to some breathtaking views: 
 
