@@ -11,7 +11,14 @@ A complete archive of my blog posts can be found [here](https://zporat.github.io
 
 Below is a map of the places I have been because of math!  Click the pins to see what conferences took me where, and find the blog post about that conference if I have one!
 
+<div id="map">
+</div>
+<style>
+img.huechange { filter: hue-rotate(120deg); }
+</style>
+<script>
 {% include_relative _includes/map.md %}
+</script>
 
 If you have somehow stumbled here accidentally and were actually looking for information about me, please visit my [homepage](https://zporat.github.io). 
 
