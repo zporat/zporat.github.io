@@ -46,6 +46,19 @@ marker.bindPopup("<b>ANTS XVI</b><br>Massachusetts Institute of Technology (2024
 
 var marker = L.marker([46.781893208622165, -71.27477458903167]).addTo(map);
 marker.bindPopup("<b>Québec-Maine Number Theory Conference</b><br>Université Laval (2024) | <a href='https://zporat.github.io/2024/10/29/Maine-Quebec.html'>Blog Post</a>");
+
+var marker = L.marker([33.20778869373717, -97.1524574577491]).addTo(map);
+marker.bindPopup("<b>37th Automorphic Forms Workshop</b><br>University of North Texas (Upcoming)");
+marker._icon.classList.add("huechange");
+
+var marker = L.marker([33.20778869373717, -97.1524574577491]).addTo(map);
+marker.bindPopup("<b>37th Automorphic Forms Workshop</b><br>University of North Texas (Upcoming)");
+marker._icon.classList.add("huechange");
+
+var marker = L.marker([43.07564749869218, -89.41530239964843]).addTo(map);
+marker.bindPopup("<b>AWM Research Symposium: Special Session on Curves and Abelian Varieties in Characteristic p</b><br>University of Wisconsin-Madison (Upcoming)");
+marker._icon.classList.add("huechange");
+
 </script>
 <br>
 If you have somehow stumbled here accidentally and were actually looking for information about me, please visit my [homepage](https://zporat.github.io). 
