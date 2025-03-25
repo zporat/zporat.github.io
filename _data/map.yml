@@ -1,4 +1,4 @@
-upcoming:
+main:
   - title: "AWM Research Symposium: Special Session on Curves and Abelian Varieties in Characteristic p"
     location: University of Wisconsin-Madison
     coordinates: 43.07564749869218, -89.41530239964843
@@ -19,7 +19,6 @@ upcoming:
     coordinates: 41.82692367127221, -71.40256966108419
     date: 2025
 
-past:
   - title: Québec-Maine Number Theory Conference
     location: Université Laval
     coordinates: 46.781893208622165, -71.27477458903167
