@@ -11,22 +11,7 @@ A complete archive of my blog posts can be found [here](https://zporat.github.io
 
 Below is a map of the places I have been because of math!  Click the pins to see what conferences took me where, and find the blog post about that conference if I have one!
 
-<div id="map">
-</div>
-<style>
-img.huechange { filter: hue-rotate(120deg); }
-</style>
-<script>
-var map = L.map('map').setView([40, -96], 3.5);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{@2x}.png',{
-minZoom: 1,
-maxZoom: 18,
-subdomains: 'abcd',
-attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> Contributors | &copy; <a href="https://carto.com/attributions">CARTO</a>',
-crossOrigin: true
-}).addTo(map);
 {% include_relative _includes/map.md %}
-</script>
 
 If you have somehow stumbled here accidentally and were actually looking for information about me, please visit my [homepage](https://zporat.github.io). 
 
