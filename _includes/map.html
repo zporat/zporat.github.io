@@ -17,15 +17,7 @@ crossOrigin: true
 
 {% for link in site.data.map.past %}
 
-  {% if link.blog_post %}
-    var marker = L.marker([{{ link.coordinates }}]).addTo(map);
-    marker.bindPopup("<b>{{ link.title }}</b><br>{{ link.location }} ({{ link.date }}) | <a href="{{ link.blog_post }}">Blog Post</a>");
-
-  {% else %}
-
     var marker = L.marker([{{ link.coordinates }}]).addTo(map);
     marker.bindPopup("<b>{{ link.title }}</b><br>{{ link.location }} ({{ link.date }})");
-
-  {% endif %}
 
 {% endfor %}
