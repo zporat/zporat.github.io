@@ -16,7 +16,7 @@ Below is a map of the places I have been because of math!  Click the pins to see
 img.huechange { filter: hue-rotate(120deg); }
 </style>
 <script>
-{% include_relative _includes/map.md %}
+{% include_relative _includes/map.html %}
 </script>
 
 If you have somehow stumbled here accidentally and were actually looking for information about me, please visit my [homepage](https://zporat.github.io). 
