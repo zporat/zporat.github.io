@@ -19,8 +19,7 @@ var marker = L.marker([{{ conf.coordinates }}]).addTo(map);
 marker.bindPopup("<b>{{ conf.title }}</b><br>{{ conf.location }} (Upcoming)");
 marker._icon.classList.add("huechange");
 
-
-{% end for %}
+{% endfor %}
 
 {% for conf in site.data.map.past %}
 
@@ -34,8 +33,8 @@ marker.bindPopup("<b>{{ conf.title }}</b><br>{{ conf.location }} ({{ conf.date }
 var marker = L.marker([{{ conf.coordinates }}]).addTo(map);
 marker.bindPopup("<b>{{ conf.title }}</b><br>{{ conf.location }} ({{ conf.date }})");
 
-  {% end if %}
+  {% endif %}
 
-{% end for %}
+{% endfor %}
 
 </script>
