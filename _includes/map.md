@@ -1,9 +1,3 @@
-<div id="map">
-</div>
-<style>
-img.huechange { filter: hue-rotate(120deg); }
-</style>
-<script>
 var map = L.map('map').setView([40, -96], 3.5);
 L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{@2x}.png',{
 minZoom: 1,
@@ -36,5 +30,3 @@ marker.bindPopup("<b>{{ conf.title }}</b><br>{{ conf.location }} ({{ conf.date }
   {% endif %}
 
 {% endfor %}
-
-</script>
