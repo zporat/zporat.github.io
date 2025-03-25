@@ -13,8 +13,16 @@ attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStree
 crossOrigin: true
 }).addTo(map);
 
+{% for conf in site.data.map.upcoming %}
 
-{% for conf in site.data.map.main %}
+var marker = L.marker([{{ conf.coordinates }}]).addTo(map);
+marker.bindPopup("<b>{{ conf.title }}</b><br>{{ conf.location }} (Upcoming)");
+marker._icon.classList.add("huechange");
+
+
+{% end for %}
+
+{% for conf in site.data.map.past %}
 
   {% if conf.blog_post %}
 
@@ -25,5 +33,9 @@ marker.bindPopup("<b>{{ conf.title }}</b><br>{{ conf.location }} ({{ conf.date }
 
 var marker = L.marker([{{ conf.coordinates }}]).addTo(map);
 marker.bindPopup("<b>{{ conf.title }}</b><br>{{ conf.location }} ({{ conf.date }})");
+
+  {% end if %}
+
+{% end for %}
 
 </script>
