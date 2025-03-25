@@ -1,5 +1,4 @@
 <div id="map">
-</div>
 <style>
 img.huechange { filter: hue-rotate(120deg); }
 </style>
@@ -32,3 +31,4 @@ var marker = L.marker([{{ conf.coordinates }}]).addTo(map);
 marker.bindPopup("<b>{{ conf.title }}</b><br>{{ conf.location }} ({{ conf.date }})");
 
 </script>
+</div>
