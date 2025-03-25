@@ -17,6 +17,14 @@ Below is a map of the places I have been because of math!  Click the pins to see
 img.huechange { filter: hue-rotate(120deg); }
 </style>
 <script>
+var map = L.map('map').setView([40, -96], 3.5);
+L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{@2x}.png',{
+minZoom: 1,
+maxZoom: 18,
+subdomains: 'abcd',
+attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> Contributors | &copy; <a href="https://carto.com/attributions">CARTO</a>',
+crossOrigin: true
+}).addTo(map);
 {% include_relative _includes/map.md %}
 </script>
 
