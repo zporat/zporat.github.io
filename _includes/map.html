@@ -25,4 +25,6 @@ crossOrigin: true
     var marker = L.marker([{{ link.coordinates }}]).addTo(map);
     marker.bindPopup("<b>{{ link.title }}</b><br>{{ link.location }} ({{ link.date }})");
 
+  {% endif %}
+
 {% endfor %}
