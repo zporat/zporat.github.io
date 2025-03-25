@@ -1,0 +1,59 @@
+upcoming:
+  - title: "AWM Research Symposium: Special Session on Curves and Abelian Varieties in Characteristic p"
+    location: University of Wisconsin-Madison
+    coordinates: 43.07564749869218, -89.41530239964843
+    date: 2025
+
+  - title: Arithmetic Geometry at UNT
+    location: University of North Texas
+    coordinates: 33.21245645765188, -97.15655587313417
+    date: 2025
+
+  - title: 37th Automorphic Forms Workshop
+    location: University of North Texas
+    coordinates: 33.20778869373717, -97.1524574577491
+    date: 2025
+
+  - title: AMS New England Graduate Student Conference
+    location: Brown University
+    coordinates: 41.82692367127221, -71.40256966108419
+    date: 2025
+
+past:
+  - title: Québec-Maine Number Theory Conference
+    location: Université Laval
+    coordinates: 46.781893208622165, -71.27477458903167
+    date: 2024
+    blog_post: https://zporat.github.io/2024/10/29/Maine-Quebec.html
+
+  - title: ANTS XVI
+    location: Massachusetts Institute of Technology
+    coordinates: 42.36040006373788, -71.09417772764208
+    date: 2024
+    blog_post: https://zporat.github.io/2024/07/27/ANTS.html
+
+  - title: 36th Automorphic Forms Workshop
+    location: Oklahoma State University
+    coordinates: 36.12695329683634, -97.07361084686573
+    date: 2024
+
+  - title: "Arizona Winter School: Abelian Varieties"
+    location: University of Arizona
+    coordinates: 32.23215218707289, -110.95356216073793
+    date: 2024
+    blog_post: https://zporat.github.io/2024/07/20/Mazur-and-Me.html
+
+  - title: Connecticut Summer School in Number Theory Conference
+    location: University of Connecticut
+    coordinates: 41.813850048276755, -72.24530786395005
+    date: 2024, 2022, 2020
+
+  - title: AMS Fall Eastern Sectional Meeting
+    location: University of Massachusetts Amherst
+    coordinates: 42.38671656025372, -72.53139561620192
+    date: 2022
+
+  - title: 10th Annual Upstate Number Theory Conference
+    location: Union College
+    coordinates: 42.81806585736163, -73.92945616036035
+    date: 2021
