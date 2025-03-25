@@ -51,8 +51,8 @@ var marker = L.marker([33.20778869373717, -97.1524574577491]).addTo(map);
 marker.bindPopup("<b>37th Automorphic Forms Workshop</b><br>University of North Texas (Upcoming)");
 marker._icon.classList.add("huechange");
 
-var marker = L.marker([33.20778869373717, -97.1524574577491]).addTo(map);
-marker.bindPopup("<b>37th Automorphic Forms Workshop</b><br>University of North Texas (Upcoming)");
+var marker = L.marker([33.21245645765188, -97.15655587313417]).addTo(map);
+marker.bindPopup("<b>Arithmetic Geometry at UNT</b><br>University of North Texas (Upcoming)");
 marker._icon.classList.add("huechange");
 
 var marker = L.marker([43.07564749869218, -89.41530239964843]).addTo(map);
