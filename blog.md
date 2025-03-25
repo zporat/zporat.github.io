@@ -47,6 +47,10 @@ marker.bindPopup("<b>ANTS XVI</b><br>Massachusetts Institute of Technology (2024
 var marker = L.marker([46.781893208622165, -71.27477458903167]).addTo(map);
 marker.bindPopup("<b>Québec-Maine Number Theory Conference</b><br>Université Laval (2024) | <a href='https://zporat.github.io/2024/10/29/Maine-Quebec.html'>Blog Post</a>");
 
+var marker = L.marker([41.82692367127221, -71.40256966108419]).addTo(map);
+marker.bindPopup("<b>AMS New England Graduate Student Conference</b><br>Brown University (Upcoming)");
+marker._icon.classList.add("huechange");
+
 var marker = L.marker([33.20778869373717, -97.1524574577491]).addTo(map);
 marker.bindPopup("<b>37th Automorphic Forms Workshop</b><br>University of North Texas (Upcoming)");
 marker._icon.classList.add("huechange");
