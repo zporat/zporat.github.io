@@ -1,6 +1,6 @@
 main:
 
-  - title: Computing Coset Representatives and Generators of &Gamma;<sub>0</sub>(3, N)
+  - title: Computing Coset Representatives and Generators of &Gamma;<sub>0</sub>(3,&nbsp;N)
     description: 
     pdf: ./files/notes/Gamma0_3_Data.pdf
     code: ./files/notes/Gamma0_3_Data.py
