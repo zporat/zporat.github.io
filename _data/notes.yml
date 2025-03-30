@@ -1,5 +1,9 @@
 main:
 
+  - title: "A Crash Course in Cryptology: Securing Electronic Communications"
+    description: My Mini-Course Notes for [SWiM@Wes 2025](https://mathcs-graduate.wescreates.wesleyan.edu/ams/swim-2025/)
+    pdf: ./files/notes/Cyptology_Notes.pdf
+
   - title: Computing Coset Representatives and Generators of &Gamma;<sub>0</sub>(3,&nbsp;N)
     description: 
     pdf: ./files/notes/Gamma0_3_Data.pdf
