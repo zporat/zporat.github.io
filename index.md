@@ -3,7 +3,8 @@ layout: homepage
 ---
 
 <a href="#about" class="button" style="font-size:16px;"><i class="fas fa-address-card" aria-hidden="true"></i>&nbsp; About</a>
-<a href="#papers" class="button" style="font-size:16px;"><i class="fas fa-folder-open" aria-hidden="true"></i>&nbsp; Papers</a>
+<a href="#papers" class="button" style="font-size:16px;"><i class="fas fa-newspaper" aria-hidden="true"></i>&nbsp; Papers</a>
+<a href="#talks" class="button" style="font-size:16px;"><i class="fas fa-microphone" aria-hidden="true"></i>&nbsp; Talks</a>
 
 ---
 
@@ -27,7 +28,7 @@ Here is a copy of my CV, last updated in March 2025: <a href="{{ site.cv_link }}
 
 ---
 
-## Recent and Upcoming Talks
+## <a name="talks"></a> Recent and Upcoming Talks
 
 {% include_relative _includes/talks.md %}
 

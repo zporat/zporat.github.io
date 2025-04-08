@@ -1,4 +1,4 @@
-main:
+upcoming:
 
   - title: Talk Title TBD
     conf: 33èmes Journées Arithmétiques
@@ -24,6 +24,9 @@ main:
     conf_website: https://sites.google.com/brown.edu/amsgradconference/home
     location: (Brown University)
     date: Upcoming (April 19, 2025)
+
+
+past: 
 
   - title: Computations Directly on the Cuspidal Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
     conf: Conférence de Théorie des Nombres Québec-Maine
