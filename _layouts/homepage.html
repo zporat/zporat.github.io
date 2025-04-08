@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 
-  <nav id="navbar" class="navbar">
-    <a href="#about">About</a>
-    <a href="#papers">Papers</a>
-    <a href="#talks">Talks</a>
-  </nav>
-
   <head>
     <title>{{ site.title }} | {{ site.position }}</title>
 
@@ -43,6 +37,13 @@
   </head>
   <body style="padding-left:0px">
     <div class="wrapper">
+      
+      <nav id="navbar" class="navbar">
+        <a href="#about">About</a>
+        <a href="#papers">Papers</a>
+        <a href="#talks">Talks</a>
+      </nav>
+
       <header>
         
         {% if site.avatar %}
