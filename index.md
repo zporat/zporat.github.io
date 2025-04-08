@@ -2,6 +2,12 @@
 layout: homepage
 ---
 
+<nav id="navbar" class="navbar">
+    <a href="#about">About</a>
+    <a href="#papers">Papers</a>
+    <a href="#talks">Talks</a>
+</nav>
+
 ## <a name="about"></a> About Me
 
 My name is Zachary (Zack) Porat.  I am currently a PhD candidate in mathematics at [Wesleyan University](https://www.wesleyan.edu/mathcs/).  My advisor is [David Pollack](https://dpollack.web.wesleyan.edu/).
@@ -27,6 +33,7 @@ Here is a copy of my CV, last updated in March 2025: <a href="{{ site.cv_link }}
 ### Upcoming Talks
 
 {% include_relative _includes/upcoming-talks.md %}
+<br>
 
 ### Recent Talks
 
