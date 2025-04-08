@@ -550,15 +550,16 @@ footer {
 }
 
 /* Style the navbar */
-#navbar {
+.navbar {
   position: sticky;
   top: 0;
   overflow: hidden;
   background-color: #043361;
+  opacity: 0.95;
 }
 
 /* Navbar links */
-#navbar a {
+.navbar a {
   float: left;
   display: block;
   color: #f2f2f2;
