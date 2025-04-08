@@ -30,7 +30,13 @@ Here is a copy of my CV, last updated in March 2025: <a href="{{ site.cv_link }}
 
 ## <a name="talks"></a> Recent and Upcoming Talks
 
-{% include_relative _includes/talks.md %}
+### Upcoming Talks
+
+{% include_relative _includes/upcoming-talks.md %}
+
+### Recent Talks
+
+{% include_relative _includes/recent-talks.md %}
 
 ---
 
