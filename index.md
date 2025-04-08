@@ -7,6 +7,7 @@ layout: homepage
   <a href="#papers">Papers</a>
   <a href="#talks">Talks</a>
 </nav>
+<br>
 
 ## <a name="about"></a> About Me
 
