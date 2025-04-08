@@ -2,7 +2,8 @@
 layout: homepage
 ---
 
-<a href="https://zporat.github.io/#about" class="button" style="font-size:16px;"><i class="fas fa-address-card" aria-hidden="true"></i>&nbsp; About</a>
+<a href="#about" class="button" style="font-size:16px;"><i class="fas fa-address-card" aria-hidden="true"></i>&nbsp; About</a>
+<a href="#papers" class="button" style="font-size:16px;"><i class="fas fa-folder-open" aria-hidden="true"></i>&nbsp; Papers</a>
 
 ---
 
@@ -18,7 +19,7 @@ Here is a copy of my CV, last updated in March 2025: <a href="{{ site.cv_link }}
 
 ---
 
-## Papers
+## <a name="papers"></a> Papers
 
 (Note that preprints may differ from the final published version.)
 
