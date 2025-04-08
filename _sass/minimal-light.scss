@@ -618,7 +618,7 @@ footer {
 }
 
 /* Style the navbar */
-#navbar {
+.navbar {
   position: sticky;
   top: 0;
   overflow: hidden;
@@ -626,7 +626,7 @@ footer {
 }
 
 /* Navbar links */
-#navbar a {
+.navbar a {
   float: left;
   display: block;
   color: #f2f2f2;
