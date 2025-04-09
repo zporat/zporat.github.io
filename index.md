@@ -1,6 +1,12 @@
 ---
 layout: homepage
 ---
+<nav class="navbar">
+<a href="#about" class="button" style="font-size:16px;"><i class="fas fa-address-card" aria-hidden="true"></i>&nbsp; About</a>
+
+</nav>
+
+
 
 ## <a name="about"></a> About Me
 
