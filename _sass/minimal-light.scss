@@ -607,7 +607,7 @@ footer {
   color: white;
   border: 2px solid #38C; 
   transition-duration: 0.3s;
-  padding: 4px 4px 4px;
+  padding: 4px 4px;
   border-radius: 4px;
   display: inline-block;
 }
@@ -619,24 +619,14 @@ footer {
 }
 
 .navbar {
+  list-style-type: none;
   text-align: center;
-  line-height: 2em;
   margin-bottom: 1em;
+  padding: 0;
 }
 
-.navbutton {
-  background-color: #38C;
-  color: white;
-  border: 2px solid #38C; 
-  transition-duration: 0.3s;
-  padding: 0px 4px 0px;
-  border-radius: 4px;
-  display: inline-block;
-  width: 10em;
-}
-
-.navbutton:hover {
-  background-color: #043361; 
-  color: white;
-  border: 2px solid #043361; 
+.navbar li {
+  display: inline-block
+  font-size: 20px;
+  padding: 10px;
 }

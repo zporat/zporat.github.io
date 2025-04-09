@@ -2,15 +2,16 @@
 layout: homepage
 ---
 
-<div class="navbar">
-<a href="#about" class="navbutton" style="font-size:16px;"><i class="fas fa-address-card" aria-hidden="true"></i>&nbsp; About</a>
-<a href="#papers" class="navbutton" style="font-size:16px;"><i class="fas fa-newspaper" aria-hidden="true"></i>&nbsp; Papers</a>
+<ul class="navbar">
+<li> <a href="#about"><i class="fas fa-address-card" aria-hidden="true"></i>&nbsp; About</a></li>
+<li> <a href="#papers"><i class="fas fa-newspaper" aria-hidden="true"></i>&nbsp; Papers</a></li>
+</ul>
+
 <a href="#talks" class="navbutton" style="font-size:16px;"><i class="fas fa-microphone" aria-hidden="true"></i>&nbsp; Talks</a>
 <a href="#teaching" class="navbutton" style="font-size:16px;"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i>&nbsp; Teaching</a>
 <a href="#service" class="navbutton" style="font-size:16px;"><i class="fas fa-tools" aria-hidden="true"></i>&nbsp; Service</a>
 <a href="#notes" class="navbutton" style="font-size:16px;"><i class="fas fa-sticky-note" aria-hidden="true"></i>&nbsp; Notes</a>
 <a href="#misc" class="navbutton" style="font-size:16px;"><i class="fas fa-plus" aria-hidden="true"></i>&nbsp; Misc.</a>
-</div>
 
 ---
 
