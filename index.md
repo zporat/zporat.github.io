@@ -2,6 +2,16 @@
 layout: homepage
 ---
 
+<div class="navbar">
+<a href="#talks" class="navbutton" style="font-size:16px;"><i class="fas fa-microphone" aria-hidden="true"></i>&nbsp; Talks</a>
+<a href="#teaching" class="navbutton" style="font-size:16px;"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i>&nbsp; Teaching</a>
+<a href="#service" class="navbutton" style="font-size:16px;"><i class="fas fa-tools" aria-hidden="true"></i>&nbsp; Service</a>
+<a href="#notes" class="navbutton" style="font-size:16px;"><i class="fas fa-sticky-note" aria-hidden="true"></i>&nbsp; Notes</a>
+<a href="#misc" class="navbutton" style="font-size:16px;"><i class="fas fa-plus" aria-hidden="true"></i>&nbsp; Misc.</a>
+</div>
+
+---
+
 ## <a name="about"></a> About Me
 
 My name is Zachary (Zack) Porat.  I am currently a PhD candidate in mathematics at [Wesleyan University](https://www.wesleyan.edu/mathcs/).  My advisor is [David Pollack](https://dpollack.web.wesleyan.edu/).
