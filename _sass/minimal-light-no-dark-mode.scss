@@ -555,3 +555,20 @@ footer {
   line-height: 2em;
   margin-bottom: 1em;
 }
+
+.navbutton {
+  background-color: #38C;
+  color: white;
+  border: 2px solid #38C; 
+  transition-duration: 0.3s;
+  padding: 0px 4px 0px;
+  border-radius: 4px;
+  display: inline-block;
+  width: 10em;
+}
+
+.navbutton:hover {
+  background-color: #043361; 
+  color: white;
+  border: 2px solid #043361; 
+}
