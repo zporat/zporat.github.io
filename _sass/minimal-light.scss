@@ -619,6 +619,6 @@ footer {
 
 .navbar {
   box-shadow: none;
-  background-color: white;
-  opacity: 0.95;
+  position: sticky;
+  top: 0;
 }
