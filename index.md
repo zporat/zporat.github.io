@@ -7,6 +7,7 @@ layout: homepage
 <a href="#papers" class="button" style="font-size:16px;"><i class="fas fa-newspaper" aria-hidden="true"></i>&nbsp; Papers</a>
 <a href="#talks" class="button" style="font-size:16px;"><i class="fas fa-microphone" aria-hidden="true"></i>&nbsp; Talks</a>
 <a href="#teaching" class="button" style="font-size:16px;"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i>&nbsp; Teaching</a>
+<a href="#service" class="button" style="font-size:16px;"><i class="fas fa-tools" aria-hidden="true"></i>&nbsp; Service</a>
 <a href="#notes" class="button" style="font-size:16px;"><i class="fas fa-sticky-note" aria-hidden="true"></i>&nbsp; Notes</a>
 <a href="#misc" class="button" style="font-size:16px;"><i class="fas fa-plus" aria-hidden="true"></i>&nbsp; Misc.</a>
 </div>
@@ -51,7 +52,7 @@ Additionally, I have run several mentorship projects as part of Wesleyan's [Dire
 
 ---
 
-## Service
+## <a name="service"></a> Service
 
 I am currently the President of Wesleyan's [AMS Graduate Student Chapter](https://mathcs-graduate.wescreates.wesleyan.edu/ams/).  I am also one of the organizers of our [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).
 
@@ -59,7 +60,7 @@ Additionally, from Spring 2022 through Fall 2023, I was a co-organizer of the de
 
 ---
 
-## <a name="notes"></a>Expository Notes and More
+## <a name="notes"></a> Expository Notes and More
 
 Here are some notes and code that I have put together for one reason or another.  Please let me know if you find any errors.  
 
