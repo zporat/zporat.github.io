@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-<div class=navbar>
+<div class="navbar">
 <a href="#about" class="button" style="font-size:16px;"><i class="fas fa-address-card" aria-hidden="true"></i>&nbsp; About</a>
 <a href="#papers" class="button" style="font-size:16px;"><i class="fas fa-newspaper" aria-hidden="true"></i>&nbsp; Papers</a>
 <a href="#talks" class="button" style="font-size:16px;"><i class="fas fa-microphone" aria-hidden="true"></i>&nbsp; Talks</a>
