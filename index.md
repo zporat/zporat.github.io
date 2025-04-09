@@ -5,6 +5,9 @@ layout: homepage
 <a href="#about" class="button" style="font-size:16px;"><i class="fas fa-address-card" aria-hidden="true"></i>&nbsp; About</a>
 <a href="#papers" class="button" style="font-size:16px;"><i class="fas fa-newspaper" aria-hidden="true"></i>&nbsp; Papers</a>
 <a href="#talks" class="button" style="font-size:16px;"><i class="fas fa-microphone" aria-hidden="true"></i>&nbsp; Talks</a>
+<a href="#teaching" class="button" style="font-size:16px;"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i>&nbsp; Teaching</a>
+<a href="#notes" class="button" style="font-size:16px;"><i class="fas fa-sticky-note" aria-hidden="true"></i>&nbsp; Notes</a>
+<a href="#misc" class="button" style="font-size:16px;"><i class="fas fa-plus" aria-hidden="true"></i>&nbsp; Misc.</a>
 
 
 ---
@@ -35,7 +38,7 @@ Here is a copy of my CV, last updated in March 2025: <a href="{{ site.cv_link }}
 
 ---
 
-## Teaching
+## <a name="teaching"></a> Teaching
 
 I will be serving as a project assistant at [Arithmetic Geometry at UNT](https://sites.google.com/view/arithmetic-geometry-at-unt/).
 
