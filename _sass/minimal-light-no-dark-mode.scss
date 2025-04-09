@@ -593,7 +593,6 @@ footer {
 .dropdown {
   position: relative;
   display: inline-block;
-  width: 100%;
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -621,4 +620,4 @@ footer {
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: white;} 
+.dropdown:hover .dropbtn {background-color: white; transform: scale(1.2);} 
