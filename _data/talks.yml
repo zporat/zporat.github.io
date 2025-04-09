@@ -1,16 +1,10 @@
 upcoming:
 
-  - title: The Evolving Role of Computers in Mathematics
-    conf: AMS New England Graduate Student Conference 
-    conf_website: https://sites.google.com/brown.edu/amsgradconference/home
-    location: (Brown University)
-    date: April 19, 2025
-
-  - title: Advances in Computations on the Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
-    conf: 37th Automorphic Forms Workshop
-    conf_website: http://automorphicformsworkshop.org/index.html
-    location: (University of North Texas)
-    date: April 30 - May 4, 2025
+  - title: Talk Title TBD
+    conf: 33èmes Journées Arithmétiques
+    conf_website: https://www.uni.lu/fstm-en/conferences/ja25/
+    location: (University of Luxembourg)
+    date: June 30 - July 4, 2025
 
   - title: Heuristics for (Ir)reducibility of Strata of the Moduli Space of Hyperelliptic Curves
     conf: AWM Research Symposium
@@ -19,11 +13,17 @@ upcoming:
     spec_session: Special Session on Curves and Abelian Varieties in Characteristic p
     date: May 16-18, 2025
 
-  - title: Talk Title TBD
-    conf: 33èmes Journées Arithmétiques
-    conf_website: https://www.uni.lu/fstm-en/conferences/ja25/
-    location: (University of Luxembourg)
-    date: June 30 - July 4, 2025
+  - title: Advances in Computations on the Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
+    conf: 37th Automorphic Forms Workshop
+    conf_website: http://automorphicformsworkshop.org/index.html
+    location: (University of North Texas)
+    date: April 30 - May 4, 2025
+
+  - title: The Evolving Role of Computers in Mathematics
+    conf: AMS New England Graduate Student Conference 
+    conf_website: https://sites.google.com/brown.edu/amsgradconference/home
+    location: (Brown University)
+    date: April 19, 2025
 
 past: 
 
