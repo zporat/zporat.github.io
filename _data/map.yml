@@ -19,12 +19,12 @@ upcoming:
     coordinates: 33.20778869373717, -97.1524574577491
     date: May 2025
 
+past:
   - title: AMS New England Graduate Student Conference
     location: Brown University
     coordinates: 41.82692367127221, -71.40256966108419
     date: April 2025
 
-past:
   - title: Québec-Maine Number Theory Conference
     location: Université Laval
     coordinates: 46.781893208622165, -71.27477458903167
