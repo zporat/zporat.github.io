@@ -25,6 +25,7 @@ All opinions expressed here are my own and do not necessarily reflect the opinio
 <p style="color: #595959; font-size:13px; margin-top: 0; padding-top: 0"> Posted on {{ post.pubDate }} </p>
 <p> {{ post.content | truncatewords: 53 }} </p>
 <a href="{{ post.url }}" class="button" style="font-size:12px;">&nbsp;Continue Reading&nbsp;&nbsp;<i class="fas fa-angle-double-right" aria-hidden="true"></i>&nbsp;</a>
+<br>
 
 ---
 {% endfor %}
