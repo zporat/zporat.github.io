@@ -23,7 +23,7 @@ All opinions expressed here are my own and do not necessarily reflect the opinio
 
 <h3 style="font-size: 120%; margin-bottom: 3pt; padding-bottom: 0" ><a href="{{ post.url }}">{{ post.title }}</a></h3> 
 <p style="color: #595959; font-size:13px; margin-top: 0; padding-top: 0"> Posted on {{ post.pubDate }} </p>
-<p> {{ post.content | truncatewords: 50 }} </p>
+<p> {{ post.content | strip_footnotes | truncatewords: 50 }} </p>
 <a href="{{ post.url }}" class="button" style="font-size:12px;">&nbsp;Continue Reading&nbsp;&nbsp;<i class="fas fa-angle-double-right" aria-hidden="true"></i></a>
 
 ---
