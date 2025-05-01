@@ -4,7 +4,7 @@ title: Un Week-end Parfait
 date: 2024-10-29
 pubDate: October 29, 2024
 conference: 'Québec-Maine Number Theory Conference'
-confDate: October 5-6, 2024
+confDate: October 2024
 ---
 
 I recently returned from a weekend in the city of Québec, where I attended the [Québec-Maine Number Theory Conference](https://maine-quebec.mat.ulaval.ca/24/qm24.html) at Université Laval.  Before the trip, I expected today's blog post to be brief.  A weekend conference didn't seem likely to offer a compelling story--let alone one with a moral, as in my previous posts.  Instead, I intended to use this post as an opportunity to announce my first solo preprint, which can be found here: [arXiv:2410.02734](https://arxiv.org/abs/2410.02734).
