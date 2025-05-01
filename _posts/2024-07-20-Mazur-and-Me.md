@@ -3,6 +3,8 @@ layout: post
 title: Mazur and Me
 date: 2024-07-20
 pubDate: July 20, 2024
+conference: 'Arizona Winter School: Abelian Varieties'
+confDate: March 2-6, 2024
 ---
 
 In 1977, Barry Mazur proved Ogg's conjecture, showing that the torsion subgroup of the Mordell-Weil group of an elliptic curve over **Q** must be isomorphic to one of fifteen groups.[^1]  I can't quite remember when I first saw this statement--it might have been in a plenary talk by Álvaro Lozano-Robledo at the 2019 Union College Mathematics Conference--but I do remember being struck by just how tidy the statement was.  The classification result scratched some itch in my brain that I didn't even know I had.  It would serve as major inspiration for my [undergrad thesis](https://zporat.github.io/files/notes/mordell_curves_torsion.pdf), and propel me towards grad school.
