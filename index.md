@@ -78,6 +78,7 @@ Here are some notes and code that I have put together for one reason or another.
 * [Lydia Ahlstrom](https://sites.google.com/wesleyan.edu/lydiaahlstrom/home)
 * [Erik Davis](https://davis7e.wordpress.com/)
 * [Steven Groen](https://sites.google.com/view/stevengroen)
+* [Asimina Hamakiotes](https://asiminah.github.io/)
 * [Jeffrey Hatley](https://www.math.union.edu/~hatleyj/)
 * [Zonia Menendez](https://zmenendez.wixsite.com/zkm78)
 * [Freddy Saia](https://fsaia.github.io/site/)
