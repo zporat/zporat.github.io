@@ -4,6 +4,7 @@ upcoming:
     coordinates: 49.50432331574333, 5.949304946187169
     date: July 2025
   
+past:
   - title: "AWM Research Symposium: Special Session on Curves and Abelian Varieties in Characteristic p"
     location: University of Wisconsin-Madison
     coordinates: 43.07564749869218, -89.41530239964843
@@ -19,11 +20,16 @@ upcoming:
     coordinates: 33.20778869373717, -97.1524574577491
     date: May 2025
 
-past:
   - title: AMS New England Graduate Student Conference
     location: Brown University
     coordinates: 41.82692367127221, -71.40256966108419
     date: April 2025
+
+  - title: Hudson River Undergraduate Mathematics Conference
+    location: Union College
+    coordinates: 42.816935769604136, -73.92691277638063
+    date: April 2025
+    blog_post: https://zporat.github.io/2025/05/01/HRUMC.html
 
   - title: Québec-Maine Number Theory Conference
     location: Université Laval

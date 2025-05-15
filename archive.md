@@ -17,5 +17,3 @@ Here is a complete archive of my blog posts reverse chronologically by post date
 ---
 
 <a href="https://zporat.github.io" class="button" style="font-size:12px;"><i class="fas fa-home" aria-hidden="true"></i>&nbsp; Website Home</a> <a href="https://zporat.github.io/blog.html" class="button" style="font-size:12px;"><i class="fas fa-blog" aria-hidden="true"></i>&nbsp; Blog Home</a>
-
----
