@@ -6,14 +6,15 @@ upcoming:
     location: (University of Luxembourg)
     date: June 30 - July 4, 2025
 
+past: 
+
   - title: Heuristics for (Ir)reducibility of Strata of the Moduli Space of Hyperelliptic Curves
     conf: AWM Research Symposium
     conf_website: https://awm-math.org/meetings/awm-research-symposium/
     location: (University of Wisconsin-Madison)
     spec_session: Special Session on Curves and Abelian Varieties in Characteristic p
-    date: May 16-18, 2025
+    date: May 16, 2025
 
-past: 
   - title: Advances in Computations on the Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
     conf: 37th Automorphic Forms Workshop
     conf_website: http://automorphicformsworkshop.org/index.html
