@@ -42,7 +42,7 @@ Additionally, I have run several mentorship projects as part of Wesleyan's [Dire
 
 I am currently one of the organizers of our [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).  
 
-I have previously served as President (Fall 2023--Spring 2025) and Vice President (Fall 2021--Spring 2023) of Wesleyan's [AMS Graduate Student Chapter](https://mathcs-graduate.wescreates.wesleyan.edu/ams/).  Additionally, from Spring 2022 through Fall 2023, I was a co-organizer of the departmental [Graduate Student Seminar](https://mathcs-graduate.wescreates.wesleyan.edu/gss/).
+I previously served as President (Fall 2023--Spring 2025) and Vice President (Fall 2021--Spring 2023) of Wesleyan's [AMS Graduate Student Chapter](https://mathcs-graduate.wescreates.wesleyan.edu/ams/).  Additionally, from Spring 2022 through Fall 2023, I was a co-organizer of the departmental [Graduate Student Seminar](https://mathcs-graduate.wescreates.wesleyan.edu/gss/).
 
 ---
 
