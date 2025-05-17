@@ -2,8 +2,6 @@
 layout: homepage
 ---
 
-HOME | PAPERS | TALKS | TEACHING
-
 ## <a name="about"></a> About Me
 
 My name is Zachary (Zack) Porat.  I am currently a PhD candidate in mathematics at [Wesleyan University](https://www.wesleyan.edu/mathcs/).  My advisor is [David Pollack](https://dpollack.web.wesleyan.edu/).
