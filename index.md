@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-HOME | PAPERS | TALKS | TEACHING | SERVICE | NOTES | MISC.
+HOME | PAPERS | TALKS | TEACHING
 
 ## <a name="about"></a> About Me
 
