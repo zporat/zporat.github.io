@@ -1,5 +1,11 @@
 upcoming:
 
+  - title: Lightning Talk Title TBD
+    conf: LMFDB, Computation, and Number Theory 2025
+    conf_website: https://icerm.brown.edu/program/topical_workshop/tw-25-lucant
+    location: (ICERM)
+    date: July 7-11, 2025
+
   - title: Computations Directly on the Cuspidal Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
     conf: 33èmes Journées Arithmétiques
     conf_website: https://www.uni.lu/fstm-en/conferences/ja25/
