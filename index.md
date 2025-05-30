@@ -74,6 +74,7 @@ Here are some notes and code that I have put together for one reason or another.
 
 **Some (Mathematical) Friends**
 * [Lydia Ahlstrom](https://sites.google.com/wesleyan.edu/lydiaahlstrom/home)
+* [Thomas Bouchet](https://sites.google.com/view/thomas-bouchet/accueil)
 * [Erik Davis](https://davis7e.wordpress.com/)
 * [Steven Groen](https://sites.google.com/view/stevengroen)
 * [Asimina Hamakiotes](https://asiminah.github.io/)
