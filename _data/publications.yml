@@ -1,5 +1,6 @@
 main:
   - title: Heuristics for (Ir)reducibility of p-Rank Strata of the Moduli Space of Hyperelliptic Curves
+    authors: with Thomas Bouchet, Erik Davis, Steven Groen, and Benjamin York
     arxiv: https://arxiv.org/abs/2506.06457
     code: https://github.com/Thittho/Non-ordinary-locus
     status: preprint
