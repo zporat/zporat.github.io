@@ -1,4 +1,9 @@
 main:
+  - title: Heuristics for (Ir)reducibility of p-Rank Strata of the Moduli Space of Hyperelliptic Curves
+    arxiv: https://arxiv.org/abs/2506.06457
+    code: https://github.com/Thittho/Non-ordinary-locus
+    status: preprint
+
   - title: Computations Directly on the Cuspidal Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
     arxiv: https://arxiv.org/abs/2410.02734
     code: https://github.com/zporat/cuspidal-cohomology
