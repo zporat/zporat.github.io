@@ -12,11 +12,12 @@
         {% else %}
           <div class="title"><b>{{ link.title }}</b> ({{ link.authors }}), {{ link.status }}. </div>
         {% endif %}
-      {% endif %}
-      {% if link.arxiv %} 
-        <div class="title"><b>{{ link.title }}</b>, {{ link.status }}. </div>
       {% else %}
-        <div class="title"><a href="{{ link.pdf }}"><b>{{ link.title }}</b></a>, <a href="{{ link.doi }}"> <em>{{ link.journal }}</em> <b>{{ link.volume }}</b>:{{ link.number }}</a> ({{ link.year }}), {{ link.pages }}. </div>
+        {% if link.arxiv %} 
+          <div class="title"><b>{{ link.title }}</b>, {{ link.status }}. </div>
+        {% else %}
+          <div class="title"><a href="{{ link.pdf }}"><b>{{ link.title }}</b></a>, <a href="{{ link.doi }}"> <em>{{ link.journal }}</em> <b>{{ link.volume }}</b>:{{ link.number }}</a> ({{ link.year }}), {{ link.pages }}. </div>
+        {% endif %}
       {% endif %}
       <div style="height:5px;font-size:1px;">&nbsp;</div>
       <div class="links">
