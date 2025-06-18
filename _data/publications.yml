@@ -3,12 +3,12 @@ main:
     authors: with Thomas Bouchet, Erik Davis, Steven Groen, and Benjamin York
     arxiv: https://arxiv.org/abs/2506.06457
     code: https://github.com/Thittho/Non-ordinary-locus
-    status: preprint
+    status: submitted
 
   - title: Computations Directly on the Cuspidal Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
     arxiv: https://arxiv.org/abs/2410.02734
     code: https://github.com/zporat/cuspidal-cohomology
-    status: preprint
+    status: submitted
 
   - title: Family Sizes for Complete Multipartite Graphs
     authors: with Danielle Gregg, Thomas Mattman, and George Todd
