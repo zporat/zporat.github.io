@@ -75,7 +75,7 @@ Here are some notes and code that I have put together for one reason or another.
 * [(Bonus: Fun LaTeX Typesetting game)](https://texnique.xyz/)
 
 **Some (Mathematical) Friends**
-* [Lydia Ahlstrom](https://sites.google.com/wesleyan.edu/lydiaahlstrom/home)
+* [Lydia Ahlstrom](https://sites.google.com/view/lydiaahlstrom/home)
 * [Thomas Bouchet](https://sites.google.com/view/thomas-bouchet/accueil)
 * [Erik Davis](https://davis7e.wordpress.com/)
 * [Steven Groen](https://sites.google.com/view/stevengroen)
