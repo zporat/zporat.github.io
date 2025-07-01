@@ -1,9 +1,21 @@
 upcoming:
+  - title: Talk Title TBD
+    conf: AMS Fall Eastern Sectional Meeting
+    conf_website: https://www.ams.org/meetings/sectional/2330_program.html
+    location: (Virtual)
+    date: October 25-26, 2025
+
+  - title: Talk Title TBD
+    conf: AMS Fall Southeastern Sectional Meeting
+    conf_website: https://www.ams.org/meetings/sectional/2328_program.html
+    location: (Tulane University)
+    date: October 3-5, 2025
+  
   - title: Computing the Hecke Action Directly on the Cuspidal Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
     conf: 33èmes Journées Arithmétiques
     conf_website: https://www.uni.lu/fstm-en/conferences/ja25/
     location: (University of Luxembourg)
-    date: June 30 - July 4, 2025
+    date: July 4, 2025
 
 past: 
 
