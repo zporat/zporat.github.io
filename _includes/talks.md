@@ -1,5 +1,5 @@
 <div class="talks">
-<ul style="margin-left:-20px">
+<ul style="margin-left:-10px">
 
 {% for link in site.data.talks.upcoming %}
 
