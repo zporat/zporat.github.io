@@ -10,14 +10,14 @@ upcoming:
     conf_website: https://www.ams.org/meetings/sectional/2328_program.html
     location: (Tulane University)
     date: October 3-5, 2025
-  
+
+past: 
+
   - title: Computing the Hecke Action Directly on the Cuspidal Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
     conf: 33èmes Journées Arithmétiques
     conf_website: https://www.uni.lu/fstm-en/conferences/ja25/
     location: (University of Luxembourg)
     date: July 4, 2025
-
-past: 
 
   - title: Heuristics for (Ir)reducibility of Strata of the Moduli Space of Hyperelliptic Curves
     conf: AWM Research Symposium
