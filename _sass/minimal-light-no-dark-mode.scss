@@ -295,7 +295,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-
+  padding-top:1.0em;
   text-align:center;
   padding-left:15px;
 }
@@ -554,6 +554,80 @@ footer {
   text-align: center;
   margin-bottom: 1em;
   line-height: 1.5em;
-  padding-left: 1em;
-  padding-right: 1em;
 }
+
+.navbutton {
+  background-color: #38C;
+  color: white;
+  border: 2px solid #38C; 
+  transition-duration: 0.3s;
+  padding: 2px 4px 2px;
+  border-radius: 4px;
+  display: inline-block;
+  width: 6em;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.navbutton:hover {
+  background-color: #043361; 
+  color: white;
+  border: 2px solid #043361; 
+}
+
+ /* Dropdown Button */
+ .dropbtn {
+  background-color: #38C;
+  color: white;
+  border: 2px solid #38C; 
+  transition-duration: 0.3s;
+  padding: 8px 5px 5px;
+  border-radius: 4px;
+  display: inline-block;
+  width: 75%;
+  font-size: 16px;
+  text-align: left;
+}
+
+.dropbtn i {
+  float: right;
+  padding-right: 5px;
+  padding-top: 2px;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+  width: 75%;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  width: 75%;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-radius: 4px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 8px 12px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  font-size: 14px;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #043361; border: 2px solid #043361;} 
