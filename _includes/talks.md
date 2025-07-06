@@ -12,7 +12,6 @@
       <li><span class="fa-li"><i class="fas fa-map-pin"></i></span><a href="{{ link.conf_website }}">{{ link.conf }}</a> {{ link.location }}</li>
     {% endif %}
     </ul>
-  </div>
 </li>
 
 {% endfor %}
@@ -28,7 +27,6 @@
       <li><span class="fa-li"><i class="fas fa-map-pin"></i></span><a href="{{ link.conf_website }}">{{ link.conf }}</a> {{ link.location }}</li>
     {% endif %}
     </ul>
-  </div>
 </li>
 
 {% endfor %}
