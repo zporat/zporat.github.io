@@ -2,6 +2,8 @@
 layout: homepage
 ---
 
+<a href="#about" class="button" style="font-size:12px;">ABOUT</a> <a href="#papers" class="button" style="font-size:12px;">PAPERS</a> <a href="#teaching" class="button" style="font-size:12px;">TEACHING</a>
+
 ## <a name="about"></a> About Me
 
 My name is Zachary (Zack) Porat.  I am currently a PhD candidate in mathematics at [Wesleyan University](https://www.wesleyan.edu/mathcs/).  My advisor is [David Pollack](https://dpollack.web.wesleyan.edu/).
