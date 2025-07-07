@@ -3,7 +3,8 @@ layout: homepage
 ---
 
 <a href="#about" class="button" style="font-size:16px;"><i class="far fa-address-card"></i>&nbsp;&nbsp;About&nbsp;</a> 
-<a href="#papers" class="button" style="font-size:12px;">PAPERS</a> <a href="#teaching" class="button" style="font-size:12px;">TEACHING</a>
+<a href="#about" class="button" style="font-size:16px;"><i class="fas fa-paperclip"></i>&nbsp;&nbsp;Papers&nbsp;</a> 
+<a href="#about" class="button" style="font-size:16px;"><i class="fas fa-microphone"></i>&nbsp;&nbsp;Talks&nbsp;</a> 
 
 ---
 
