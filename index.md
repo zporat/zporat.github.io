@@ -2,12 +2,12 @@
 layout: homepage
 ---
 
-<a href="#about" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="far fa-address-card"></i>&nbsp;&nbsp;About&nbsp;</a> 
-<a href="#papers" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-paperclip"></i>&nbsp;&nbsp;Papers&nbsp;</a> 
-<a href="#talks" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-microphone"></i>&nbsp;&nbsp;Talks&nbsp;</a> 
-<a href="#teaching" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-apple-alt"></i>&nbsp;&nbsp;Teaching&nbsp;</a> 
+<a href="#about" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-address-card"></i>&nbsp;&nbsp;About&nbsp;</a>
+<a href="#papers" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-paperclip"></i>&nbsp;&nbsp;Papers&nbsp;</a>
+<a href="#talks" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-microphone"></i>&nbsp;&nbsp;Talks&nbsp;</a>
+<a href="#teaching" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-apple-alt"></i>&nbsp;&nbsp;Teaching&nbsp;</a>
 <a href="#service" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-briefcase"></i>&nbsp;&nbsp;Service&nbsp;</a>
-<a href="#notes" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-sticky-note"></i>&nbsp;&nbsp;Notes&nbsp;</a>  
+<a href="#notes" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-sticky-note"></i>&nbsp;&nbsp;Notes&nbsp;</a>
 <a href="#misc" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-bars"></i>&nbsp;&nbsp;Misc.&nbsp;</a> 
 
 ---
