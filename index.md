@@ -8,7 +8,7 @@ layout: homepage
 <a href="#teaching" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-apple-alt"></i>&nbsp;&nbsp;Teaching&nbsp;</a>
 <a href="#service" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-briefcase"></i>&nbsp;&nbsp;Service&nbsp;</a>
 <a href="#notes" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-sticky-note"></i>&nbsp;&nbsp;Notes&nbsp;</a>
-<a href="#misc" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-bars"></i>&nbsp;&nbsp;Misc.&nbsp;</a> 
+<a href="#misc" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-bars"></i>&nbsp;&nbsp;Misc.&nbsp;</a>
 
 ---
 
