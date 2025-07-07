@@ -10,6 +10,8 @@ layout: homepage
 <a href="#notes" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-sticky-note"></i>&nbsp;&nbsp;Notes&nbsp;</a>
 <a href="#misc" class="button" style="font-size:16px; margin-bottom:0.5rem"><i class="fas fa-bars"></i>&nbsp;&nbsp;Misc.&nbsp;</a>
 
+| About | Papers | Talks | Teaching | Service | Notes | Misc. | Blog |
+
 ---
 
 ## <a name="about"></a> About Me
