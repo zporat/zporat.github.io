@@ -35,8 +35,6 @@ Here is a copy of my CV, last updated in June 2025: <a href="{{ site.cv_link }}"
 
 ## <a name="talks"></a> Recent and Upcoming Talks
 
-I will be attending [LuCaNT 2025](https://icerm.brown.edu/program/topical_workshop/tw-25-lucant) at ICERM from July 7-11.
-
 {% include_relative _includes/talks.md %}
 
 ---
