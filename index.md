@@ -2,8 +2,6 @@
 layout: homepage
 ---
 
-\|<a href="#about">&nbsp;ABOUT&nbsp;</a>\|<a href="#papers">&nbsp;PAPERS&nbsp;</a>\|<a href="#talks">&nbsp;TALKS&nbsp;</a>\|
-
 <a href="#about" class="button" style="font-size:16px; margin-bottom:0.5rem">&nbsp;About&nbsp;</a>
 <a href="#papers" class="button" style="font-size:16px; margin-bottom:0.5rem">&nbsp;Papers&nbsp;</a>
 <a href="#talks" class="button" style="font-size:16px; margin-bottom:0.5rem">&nbsp;Talks&nbsp;</a>
