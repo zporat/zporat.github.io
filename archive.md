@@ -9,7 +9,7 @@ Here is a complete archive of my blog posts reverse chronologically by post date
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>, {{ post.conference }} ({{ post.confDate }})
+      <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.confDate }})
     </li>
   {% endfor %}
 </ul>
