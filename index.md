@@ -88,10 +88,12 @@ Here are some notes and code that I have put together for one reason or another.
 **Some (Mathematical) Friends**
 * [Lydia Ahlstrom](https://sites.google.com/view/lydiaahlstrom/home)
 * [Thomas Bouchet](https://sites.google.com/view/thomas-bouchet/accueil)
+* [Steven Creech](https://stevenecreech.github.io/)
 * [Erik Davis](https://davis7e.wordpress.com/)
 * [Steven Groen](https://sites.google.com/view/stevengroen)
 * [Asimina Hamakiotes](https://asiminah.github.io/)
 * [Jeffrey Hatley](https://www.math.union.edu/~hatleyj/)
+* [Marcella Manivel](https://sites.google.com/view/marcellamanivel/home)
 * [Zonia Menendez-Deaton](https://zmenendez.wixsite.com/zkm78)
 * [Freddy Saia](https://fsaia.github.io/site/)
 * [Jacob Tolman](https://sites.google.com/wesleyan.edu/jacob-tolman/home)
