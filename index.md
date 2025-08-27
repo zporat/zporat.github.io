@@ -17,6 +17,8 @@ layout: homepage
 
 My name is Zachary (Zack) Porat.  I am currently a PhD candidate in mathematics at [Wesleyan University](https://www.wesleyan.edu/mathcs/).  My advisor is [David Pollack](https://dpollack.web.wesleyan.edu/).
 
+**I am on the academic job market!**
+
 My research interests lie in number theory and arithmetic geometry.  I particularly enjoy the computational aspects of these subjects.  Currently, I am studying automorphic forms for congruence subgroups of SL(3,&nbsp;**Z**).  
 
 Before Wesleyan, I obtained my B.S. in Mathematics from [Union College](https://www.union.edu/mathematics).  Outside of math, I enjoy [bouldering](https://zporat.github.io/files/pictures/bouldering.jpg) and playing trumpet.  I also occasionally [blog](https://zporat.github.io/blog.html) about my travels as a grad student.
@@ -41,7 +43,7 @@ Here is a copy of my CV, last updated in June 2025: <a href="{{ site.cv_link }}"
 
 ## <a name="teaching"></a> Teaching
 
-I am not teaching in Spring 2025.  
+I am teaching Graduate Pedagogy in Fall 2025.  
 
 While at Wesleyan, I have taught [Calculus I](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005517&term=1249) and [Elementary Statistics](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005525&term=1229).  I have also been a Teaching Assistant for several courses and worked in the [Math Workshop](https://www.wesleyan.edu/mathcs/math/math_workshop.html). 
 
