@@ -1,4 +1,6 @@
 upcoming:
+
+past:
   - title: AMS Fall Southeastern Sectional Meeting
     location: Tulane University
     coordinates: 29.94121460674283, -90.12024043756436
@@ -9,7 +11,6 @@ upcoming:
     coordinates: 41.82422560895162, -71.40682948436462
     date: July 2025
 
-past:
   - title: 33èmes Journées Arithmétiques
     location: University of Luxembourg
     coordinates: 49.50432331574333, 5.949304946187169
