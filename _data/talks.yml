@@ -1,9 +1,13 @@
 upcoming:
+  - title: Computations on the Cuspidal Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
+    location: Five College Number Theory Seminar
+    date: February 10, 2026
 
   - title: Computations on the Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
     location: UConn Algebra Seminar
     date: December 3, 2025
-  
+
+past:   
   - title: Computations on the Cohomology of Iwahori Congruence Subgroups of SL(3,&nbsp;Z)
     conf: AMS Fall Eastern Sectional Meeting
     conf_website: https://www.ams.org/meetings/sectional/2330_program.html
@@ -15,8 +19,6 @@ upcoming:
     conf_website: https://www.ams.org/meetings/sectional/2328_program.html
     location: (Tulane University)
     date: October 4, 2025
-
-past: 
 
   - title: Computing the Hecke Action Directly on the Cuspidal Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
     conf: 33èmes Journées Arithmétiques
