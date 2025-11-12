@@ -4,11 +4,13 @@ main:
     arxiv: https://arxiv.org/abs/2506.06457
     code: https://github.com/Thittho/Non-ordinary-locus
     status: submitted
+    year: 2025
 
   - title: Computations Directly on the Cuspidal Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
     arxiv: https://arxiv.org/abs/2410.02734
     code: https://github.com/zporat/cuspidal-cohomology
-    status: <i href="https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2025-04155-3/?active=current">Mathematics of Computation</i>
+    status: <a href="https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2025-04155-3/?active=current"><i>Mathematics of Computation</i></a>
+    year: 2025
 
   - title: Family Sizes for Complete Multipartite Graphs
     authors: with Danielle Gregg, Thomas Mattman, and George Todd

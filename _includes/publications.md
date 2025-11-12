@@ -10,11 +10,11 @@
           <div class="title"><a href="{{ link.pdf }}"><b>{{ link.title }}</b></a> ({{ link.authors }}), <a href="{{ link.doi }}"> <em>{{ link.journal }}</em> <b>{{ link.volume }}</b>:{{ link.number }}</a> ({{ link.year }}), {{ link.pages }}.
           </div>
         {% else %}
-          <div class="title"><b>{{ link.title }}</b> ({{ link.authors }}), {{ link.status }}. </div>
+          <div class="title"><b>{{ link.title }}</b> ({{ link.authors }}), {{ link.status }} ({{ link.year }}). </div>
         {% endif %}
       {% else %}
         {% if link.arxiv %} 
-          <div class="title"><b>{{ link.title }}</b>, {{ link.status }}. </div>
+          <div class="title"><b>{{ link.title }}</b>, {{ link.status }} ({{ link.year }}). </div>
         {% else %}
           <div class="title"><a href="{{ link.pdf }}"><b>{{ link.title }}</b></a>, <a href="{{ link.doi }}"> <em>{{ link.journal }}</em> <b>{{ link.volume }}</b>:{{ link.number }}</a> ({{ link.year }}), {{ link.pages }}. </div>
         {% endif %}
