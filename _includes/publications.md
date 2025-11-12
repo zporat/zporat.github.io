@@ -25,7 +25,7 @@
       <a href="{{ link.mr }}" class="button" style="font-size:12px;"><i class="fas fa-external-link-alt" aria-hidden="true"></i>&nbsp; MathSciNet</a>
       {% endif %}
       {% if link.arxiv %} 
-      <a href="{{ link.arxiv }}" class="button" style="font-size:12px;"><i class="fas fa-external-link-alt" aria-hidden="true"></i>&nbsp; arXiv</a>
+      <a href="{{ link.arxiv }}" class="button" style="font-size:12px;"><i class="ai ai-arxiv" aria-hidden="true"></i>&nbsp; arXiv</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="button" style="font-size:12px;"><i class="fas fa-code-branch" aria-hidden="true"></i>&nbsp; Code</a>
