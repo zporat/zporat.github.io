@@ -52,9 +52,11 @@
           <i class="fas fa-home"></i>
         </a>  
         
-        <a style="margin: 0 5px 0 0" href="https://zporat.github.io/blog.html">
-          <i class="fas fa-blog"></i>
+        {% if site.github_link %}
+        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
+          <i class="fab fa-github"></i>
         </a>
+        {% endif %}
 
         {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
@@ -62,11 +64,9 @@
         </a>  
         {% endif %}
 
-        {% if site.github_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
-          <i class="fab fa-github"></i>
+        <a style="margin: 0 5px 0 0" href="https://orcid.org/0009-0006-7027-9037">
+          <i class="ai ai-orcid" style="font-size:1.3rem;"></i>
         </a>
-        {% endif %}
 
         {% if site.cv_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
