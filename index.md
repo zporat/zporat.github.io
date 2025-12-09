@@ -45,9 +45,9 @@ Here is a copy of my CV, last updated in November 2025: <a href="{{ site.cv_link
 
 I am teaching Graduate Pedagogy in Fall 2025.  
 
-While at Wesleyan, I have taught [Calculus I](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005517&term=1249) and [Elementary Statistics](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005525&term=1229).  I have also been a Teaching Assistant for several courses and worked in the [Math Workshop](https://www.wesleyan.edu/mathcs/math/math_workshop.html). 
+While at Wesleyan, I have taught [Calculus I](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005517&term=1249) and [Elementary Statistics](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005525&term=1229).  I have also been a Teaching Assistant for several courses and worked in the [Math Workshop](https://www.wesleyan.edu/mathcs/math/math_workshop.html).  Additionally, I have run several mentorship projects as part of Wesleyan's [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).  
 
-Additionally, I have run several mentorship projects as part of Wesleyan's [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).  In Spring 2025, I presented a mini-course on mathematical cryptology at [SWiM@Wes 2025](https://mathcs-graduate.wescreates.wesleyan.edu/ams/swim-2025/) and served as a project assistant at [Arithmetic Geometry at UNT](https://sites.google.com/view/arithmetic-geometry-at-unt/).
+In Spring 2025, I presented a mini-course on mathematical cryptology at [SWiM@Wes 2025](https://mathcs-graduate.wescreates.wesleyan.edu/ams/swim-2025/) and served as a project assistant at [Arithmetic Geometry at UNT](https://sites.google.com/view/arithmetic-geometry-at-unt/).
 
 ---
 
