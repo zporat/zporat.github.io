@@ -33,23 +33,23 @@ Here is a copy of my CV, last updated in December 2025: <a href="{{ site.cv_link
 
 ## <a name="misc"></a> Miscellaneous
 
-<p style="margin-bottom: 5px">**On My Bookshelf**</p>
+<p style="margin-bottom: 5px"><strong>On My Bookshelf</strong></p>
 * [A First Course in Modular Forms](https://link.springer.com/book/10.1007/978-0-387-27226-9) (Fred Diamond and Jerry Shurman)
 * [Linear Algebraic Groups](https://link.springer.com/book/10.1007/978-0-8176-4840-4) (T.A. Springer)
 * [Number Fields](https://link.springer.com/book/10.1007/978-3-319-90233-3) (Daniel A. Marcus)
 
-**Helpful Resources**
+<p style="margin-bottom: 5px"><strong>Helpful Resources</strong></p>
 * [J.S. Milne's Course Notes](https://www.jmilne.org/math/CourseNotes/)
 * [Keith Conrad's Expository Papers](https://kconrad.math.uconn.edu/blurbs/)
 * [The L-functions and Modular Forms Database (LMFDB)](https://www.lmfdb.org/)
 
-**Useful LaTeX Links**
+<p style="margin-bottom: 5px"><strong>Useful LaTeX Links</strong></p>
 * [Tool for figuring out LaTeX code for math symbols](https://detexify.kirelabs.org/classify.html)
 * [Tool for creating tables in LaTeX](https://www.tablesgenerator.com/latex_tables)
 * [Tool for creating commutative diagrams in LaTeX (TikzCD)](https://tikzcd.yichuanshen.de/)
 * [(Bonus: Fun LaTeX Typesetting game)](https://texnique.xyz/)
 
-**Some (Mathematical) Friends**
+<p style="margin-bottom: 5px"><strong>Some (Mathematical) Friends</strong></p>
 * [Lydia Ahlstrom](https://sites.google.com/view/lydiaahlstrom/home)
 * [Thomas Bouchet](https://sites.google.com/view/thomas-bouchet/accueil)
 * [Steven Creech](https://stevenecreech.github.io/)
