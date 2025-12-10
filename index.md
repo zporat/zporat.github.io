@@ -28,6 +28,8 @@ Here is a copy of my CV, last updated in December 2025: <a href="{{ site.cv_link
 <p> {{ post.description }} </p>
 <a href="{{ post.link }}" class="button" style="font-size:12px;">&nbsp;{{ post.button }}&nbsp;&nbsp;<i class="fas fa-angle-double-right" aria-hidden="true"></i>&nbsp;</a>
 
+{% endfor %}
+
 ---
 
 ## <a name="misc"></a> Miscellaneous
