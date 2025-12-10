@@ -13,11 +13,7 @@ My research interests lie in number theory and arithmetic geometry.  I particula
 
 Currently, I am studying automorphic forms for congruence subgroups of SL(3,&nbsp;**Z**).  I am also interested in arithmetic statistics, especially in relation to algebraic curves and abelian varieties.  
 
-Here are various research-related links:
-* [GitHub](https://github.com/zporat/)
-* [Google Scholar](https://scholar.google.com/citations?hl=en&user=vfhhsqUAAAAJ)
-* [ORCID](https://orcid.org/0009-0006-7027-9037)
-* [arXiv](https://arxiv.org/search/?query=zachary+porat&searchtype=all&source=header)
+Here are various research-related links: [GitHub](https://github.com/zporat/), [Google Scholar](https://scholar.google.com/citations?hl=en&user=vfhhsqUAAAAJ), [ORCID](https://orcid.org/0009-0006-7027-9037), [arXiv](https://arxiv.org/search/?query=zachary+porat&searchtype=all&source=header).
 
 ---
 
