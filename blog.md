@@ -3,6 +3,10 @@ layout: blog
 permalink: /blog
 ---
 
+| [**Home**](https://zporat.github.io) | [**Research**](/research) | [**Teaching**](/teaching) | <span style="color:#043361">**Blog**</span> |
+
+---
+
 ## A Mostly Mathematical Travelogue
 
 Welcome to my blog!  Here, I chronicle my mostly mathematical travels as a grad student studying number theory.  

@@ -3,7 +3,7 @@ layout: homepage
 permalink: /teaching
 ---
 
-| [**Home**](https://zporat.github.io) | [**Research**](/research) | <span style="color:#043361"><strong>Teaching</strong></span> | [**Blog**](/blog) |
+| [**Home**](https://zporat.github.io) | [**Research**](/research) | <span style="color:#043361">**Teaching**</span> | [**Blog**](/blog) |
 
 ---
 
@@ -17,9 +17,9 @@ While at Wesleyan, I have taught [Calculus I](https://owaprod-pub.wesleyan.edu/r
 
 ## <a name="mentorship"></a> Mentorship
 
-In Summer 2026, I will be co-leading a [Rethinking Number Theory project](https://sites.google.com/view/rethinkingnumbertheory/projects#h.e4lq3fl7mv93) with [Jeff Hatley](https://www.math.union.edu/~hatleyj/)!
+In Summer 2026, [Jeff Hatley](https://www.math.union.edu/~hatleyj/) and I will be co-leading a [Rethinking Number Theory project](https://sites.google.com/view/rethinkingnumbertheory/projects#h.e4lq3fl7mv93) as part of RNT7! 
 
-While at Wesleyan, I have run several mentorship projects as part of our [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).  
+While at Wesleyan, I have run several mentorship projects as part of our [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/), with a particular focus on mathematical cryptography.  If you are interested in proposing a topic (preferably related to number theory or algebraic geometry), please get in touch! 
 
 In Spring 2025, I presented a mini-course on mathematical cryptology at [SWiM@Wes 2025](https://mathcs-graduate.wescreates.wesleyan.edu/ams/swim-2025/) and served as a project assistant at [Arithmetic Geometry at UNT](https://sites.google.com/view/arithmetic-geometry-at-unt/).
 

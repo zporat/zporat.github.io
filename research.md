@@ -9,7 +9,9 @@ permalink: /research
 
 ## <a name="about"></a> Research
 
-My research interests lie in number theory and arithmetic geometry.  I particularly enjoy the computational aspects of these subjects.  Currently, I am studying automorphic forms for congruence subgroups of SL(3,&nbsp;**Z**).  
+My research interests lie in number theory and arithmetic geometry.  I particularly enjoy the interplay between theory and computation.  My work centers around developing theoretical insights, and then using these insights to improve computational algorithms and methodology.  
+
+Currently, I am studying automorphic forms for congruence subgroups of SL(3,&nbsp;**Z**).  I am also interested in arithmetic statistics, especially in relation to curves and abelian varieties.  
 
 Here are various research-related links:
 * [GitHub](https://github.com/zporat/)
