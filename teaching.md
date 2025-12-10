@@ -19,7 +19,7 @@ For additional details, please see my CV: <a href="{{ site.cv_link }}" class="bu
 
 ## <a name="mentorship"></a> Mentorship
 
-In Summer 2026, [Jeff Hatley](https://www.math.union.edu/~hatleyj/) and I will be co-leading a [Rethinking Number Theory project](https://sites.google.com/view/rethinkingnumbertheory/projects#h.e4lq3fl7mv93) as part of RNT7.  Applications will open soon! 
+In Summer 2026, [Jeff Hatley](https://www.math.union.edu/~hatleyj/) and I will be co-leading a [project](https://sites.google.com/view/rethinkingnumbertheory/projects#h.e4lq3fl7mv93) as part of the upcoming [Rethinking Number Theory](https://sites.google.com/view/rethinkingnumbertheory/home) (RNT7).  Applications will open soon! 
 
 While at Wesleyan, I have run several mentorship projects as part of our [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).  If you are interested in proposing a topic (especially those related to number theory and algebraic geometry), please get in touch! 
 

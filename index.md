@@ -22,10 +22,13 @@ Here is a copy of my CV, last updated in December 2025: <a href="{{ site.cv_link
 
 ## <a name="news"></a> Recent News
 
-In Summer 2026, [Jeff Hatley](https://www.math.union.edu/~hatleyj/) and I will be co-leading a [Rethinking Number Theory project](https://sites.google.com/view/rethinkingnumbertheory/projects#h.e4lq3fl7mv93) as part of RNT7!
-<a href="/teaching#mentorship" class="button" style="font-size:12px;">&nbsp;Learn More&nbsp;&nbsp;<i class="fas fa-angle-double-right" aria-hidden="true"></i>&nbsp;</a>
+* [Jeff Hatley](https://www.math.union.edu/~hatleyj/) and I will be co-leading a [project](https://sites.google.com/view/rethinkingnumbertheory/projects#h.e4lq3fl7mv93) as part of the upcoming [Rethinking Number Theory](https://sites.google.com/view/rethinkingnumbertheory/home) (RNT7)!
 
+<a href="/teaching#mentorship" class="button" style="font-size:12px;">&nbsp;See Mentorship&nbsp;&nbsp;<i class="fas fa-angle-double-right" aria-hidden="true"></i>&nbsp;</a>
 
+* My paper titled "Computations Directly on the Cuspidal Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)" was published in [Mathematics of Computation](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2025-04155-3/?active=current)! 
+
+<a href="/research#papers" class="button" style="font-size:12px;">&nbsp;See Papers&nbsp;&nbsp;<i class="fas fa-angle-double-right" aria-hidden="true"></i>&nbsp;</a>
 
 ---
 
