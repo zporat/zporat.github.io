@@ -13,7 +13,7 @@ I am teaching Graduate Pedagogy in Fall 2025.
 
 While at Wesleyan, I have taught [Calculus I](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005517&term=1249) and [Elementary Statistics](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005525&term=1229).  I have also been a Teaching Assistant for several courses and worked in the [Math Workshop](https://www.wesleyan.edu/mathcs/math/math_workshop.html).  
 
-For additional details regarding my teaching, please see my CV: <a href="{{ site.cv_link }}" class="button" style="font-size:12px;"><i class="fas fa-file-alt" aria-hidden="true"></i>&nbsp; PDF</a>
+For additional details regarding my teaching, mentorship, and service, please see my CV: <a href="{{ site.cv_link }}" class="button" style="font-size:12px;"><i class="fas fa-file-alt" aria-hidden="true"></i>&nbsp; PDF</a>
 
 ---
 
