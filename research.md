@@ -3,7 +3,7 @@ layout: homepage
 permalink: /research
 ---
 
-~ [Home](https://zporat.github.io) ~ [Research](https://zporat.github.io/research.html) ~ Teaching ~ [Blog](/blog.html) ~
+~ [**Home**](https://zporat.github.io) ~ Research ~ [**Teaching**](/teaching) ~ [**Blog**](/blog) ~
 
 ---
 
@@ -12,10 +12,10 @@ permalink: /research
 My research interests lie in number theory and arithmetic geometry.  I particularly enjoy the computational aspects of these subjects.  Currently, I am studying automorphic forms for congruence subgroups of SL(3,&nbsp;**Z**).  
 
 Here are various research related links:
-* <i class="fab fa-github"></i>[GitHub](https://github.com/zporat/)
-* <i class="ai ai-google-scholar"></i>[Google Scholar](https://scholar.google.com/citations?hl=en&user=vfhhsqUAAAAJ)
-* <i class="ai ai-orcid"></i>[ORCID](https://orcid.org/0009-0006-7027-9037)
-* <i class="ai ai-arxiv"></i>[arXiv](https://arxiv.org/search/?query=zachary+porat&searchtype=all&source=header)
+* [GitHub](https://github.com/zporat/)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=vfhhsqUAAAAJ)
+* [ORCID](https://orcid.org/0009-0006-7027-9037)
+* [arXiv](https://arxiv.org/search/?query=zachary+porat&searchtype=all&source=header)
 
 ---
 
