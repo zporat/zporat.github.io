@@ -21,11 +21,12 @@ Here is a copy of my CV, last updated in December 2025: <a href="{{ site.cv_link
 ---
 
 ## <a name="news"></a> Recent News
+{% for post in site.news %}
 
-* [Jeff Hatley](https://www.math.union.edu/~hatleyj/) and I will be co-leading a [project](https://sites.google.com/view/rethinkingnumbertheory/projects#h.e4lq3fl7mv93) as part of the upcoming [Rethinking Number Theory](https://sites.google.com/view/rethinkingnumbertheory/home) (RNT7)! 
-<a href="/teaching#mentorship" class="button" style="font-size:12px;">&nbsp;See Mentorship&nbsp;&nbsp;<i class="fas fa-angle-double-right" aria-hidden="true"></i>&nbsp;</a>
-
-* My paper titled "Computations Directly on the Cuspidal Cohomology of Congruence Subgroups of SL(3,&nbsp;**Z**)" was recently published in *[Mathematics of Computation](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2025-04155-3/?active=current)*! <a href="/research#papers" class="button" style="font-size:12px;">&nbsp;See Papers&nbsp;&nbsp;<i class="fas fa-angle-double-right" aria-hidden="true"></i>&nbsp;</a>
+<h3 style="font-size: 120%; margin-bottom: 3pt; padding-bottom: 0" ><a href="{{ post.url }}">{{ post.title }}</a></h3> 
+<p style="color: #595959; font-size:13px; margin-top: 0; padding-top: 0">{{ post.category }}</p>
+<p> {{ post.description }} </p>
+<a href="{{ post.link }}" class="button" style="font-size:12px;">&nbsp;{{ post.button }}&nbsp;&nbsp;<i class="fas fa-angle-double-right" aria-hidden="true"></i>&nbsp;</a>
 
 ---
 
