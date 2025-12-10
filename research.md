@@ -3,7 +3,7 @@ layout: homepage
 permalink: /research
 ---
 
-~ [**Home**](https://zporat.github.io) ~ Research ~ [**Teaching**](/teaching) ~ [**Blog**](/blog) ~
+~ [**Home**](https://zporat.github.io) ~ **Research** ~ [**Teaching**](/teaching) ~ [**Blog**](/blog) ~
 
 ---
 
@@ -11,7 +11,7 @@ permalink: /research
 
 My research interests lie in number theory and arithmetic geometry.  I particularly enjoy the computational aspects of these subjects.  Currently, I am studying automorphic forms for congruence subgroups of SL(3,&nbsp;**Z**).  
 
-Here are various research related links:
+Here are various research-related links:
 * [GitHub](https://github.com/zporat/)
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=vfhhsqUAAAAJ)
 * [ORCID](https://orcid.org/0009-0006-7027-9037)
