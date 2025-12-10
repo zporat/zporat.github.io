@@ -3,7 +3,7 @@ layout: homepage
 permalink: /research
 ---
 
-~ [**Home**](https://zporat.github.io) ~ **Research** ~ [**Teaching**](/teaching) ~ [**Blog**](/blog) ~
+~ [**Home**](https://zporat.github.io) ~ <span style="color:#043361">**Research**</span> ~ [**Teaching**](/teaching) ~ [**Blog**](/blog) ~
 
 ---
 
