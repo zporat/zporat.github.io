@@ -25,7 +25,7 @@ Here is a copy of my CV, last updated in December 2025: <a href="{{ site.cv_link
 
 <h3 style="font-size: 120%; margin-bottom: 3pt; padding-bottom: 0" >{{ post.title }}</h3> 
 <p style="color: #595959; font-size:13px; margin-top: 0; padding-top: 0">{{ post.category }}</p>
-<p> {{ post.description }} </p>
+{{ post.description }}
 <a href="{{ post.link }}" class="button" style="font-size:12px;">&nbsp;{{ post.button }}&nbsp;&nbsp;<i class="fas fa-angle-double-right" aria-hidden="true"></i>&nbsp;</a>
 
 {% endfor %}
