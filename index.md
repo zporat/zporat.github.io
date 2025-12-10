@@ -43,7 +43,7 @@ Here is a copy of my CV, last updated in November 2025: <a href="{{ site.cv_link
 
 ## <a name="teaching"></a> Teaching
 
-I am teaching Graduate Pedagogy in Fall 2025.  
+I am teaching Graduate Pedagogy in Fall 2025.  In Summer 2026, I will be co-leading a [Rethinking Number Theory project](https://sites.google.com/view/rethinkingnumbertheory/projects#h.e4lq3fl7mv93) with [Jeff Hatley](https://www.math.union.edu/~hatleyj/)!
 
 While at Wesleyan, I have taught [Calculus I](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005517&term=1249) and [Elementary Statistics](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005525&term=1229).  I have also been a Teaching Assistant for several courses and worked in the [Math Workshop](https://www.wesleyan.edu/mathcs/math/math_workshop.html).  Additionally, I have run several mentorship projects as part of Wesleyan's [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).  
 
