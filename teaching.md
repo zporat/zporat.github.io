@@ -3,16 +3,7 @@ layout: homepage
 permalink: /teaching
 ---
 
-<hr>
-<table>
-  <tr>
-    <td><a href="https://zporat.github.io"><strong>Home</strong></a></td>
-    <td><a href="/research"><strong>Research</strong></a></td>
-    <td><span style="color:#043361"><strong>Teaching</strong></span></td>
-    <td><a href="/blog"><strong>Blog</strong></a></td>
-  </tr>
-</table>
-<hr>
+| [**Home**](https://zporat.github.io) | [**Research**](/research) | <span style="color:#043361"><strong>Teaching</strong></span> | [**Blog**](/blog) |
 
 ---
 
