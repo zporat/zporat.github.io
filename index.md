@@ -2,14 +2,7 @@
 layout: homepage
 ---
 
-<a href="#about" class="button" style="font-size:16px; margin-bottom:0.5rem">&nbsp;About&nbsp;</a>
-<a href="#papers" class="button" style="font-size:16px; margin-bottom:0.5rem">&nbsp;Papers&nbsp;</a>
-<a href="#talks" class="button" style="font-size:16px; margin-bottom:0.5rem">&nbsp;Talks&nbsp;</a>
-<a href="#teaching" class="button" style="font-size:16px; margin-bottom:0.5rem">&nbsp;Teaching&nbsp;</a>
-<a href="#service" class="button" style="font-size:16px; margin-bottom:0.5rem">&nbsp;Service&nbsp;</a>
-<a href="#notes" class="button" style="font-size:16px; margin-bottom:0.5rem">&nbsp;Notes&nbsp;</a>
-<a href="#misc" class="button" style="font-size:16px; margin-bottom:0.5rem">&nbsp;Misc.&nbsp;</a>
-<a href="https://zporat.github.io/blog.html" class="button" style="font-size:16px; margin-bottom:0.5rem">&nbsp;Blog&nbsp;</a>
+| <span style="color:#043361">**Home**</span> | [**Research**](/research) | [**Teaching**](/teaching) | [**Blog**](/blog) |
 
 ---
 
@@ -20,6 +13,8 @@ My name is Zachary (Zack) Porat.  I am currently a PhD candidate in mathematics 
 **I am on the academic job market!**
 
 My research interests lie in number theory and arithmetic geometry.  I particularly enjoy the computational aspects of these subjects.  Currently, I am studying automorphic forms for congruence subgroups of SL(3,&nbsp;**Z**).  
+
+To learn more about my research, please visit my [research page](/research).  To learn more about my teaching, mentorship, and service, as well as view some expository notes that I have written, please see my [teaching page](/teaching).  
 
 Before Wesleyan, I obtained my B.S. in Mathematics from [Union College](https://www.union.edu/mathematics).  Outside of math, I enjoy [bouldering](https://zporat.github.io/files/pictures/bouldering.jpg) and playing trumpet.  I also occasionally [blog](https://zporat.github.io/blog.html) about my travels as a grad student.
 
