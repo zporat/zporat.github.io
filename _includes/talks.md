@@ -29,7 +29,7 @@
   <div class="col-sm-9">
       {% if link.conf %}      
         {% if link.spec_session %}
-          <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b>, {{ link.spec_session}} {{ link.location }} - Upcoming ({{ link.date }})
+          <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b>, {{ link.spec_session}} {{ link.location }} - {{ link.date }}
         {% else %}
           <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b> {{ link.location }} - {{ link.date }}
         {% endif %}
