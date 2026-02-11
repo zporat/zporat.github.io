@@ -7,15 +7,15 @@
   <div class="col-sm-9">
       {% if link.conf %}      
         {% if link.spec_session %}
-          Upcoming ({{ link.date }}) - <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b>, {{ link.spec_session}} {{ link.location }}
+          <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b>, {{ link.spec_session}} {{ link.location }} - Upcoming ({{ link.date }})
         {% else %}
-          Upcoming ({{ link.date }}) - <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b> {{ link.location }}
+          <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b> {{ link.location }} - Upcoming ({{ link.date }})
         {% endif %}
       {% else %}
         {% if link.conf_website %}
-          Upcoming ({{ link.date }}) - <b><a href="{{ link.conf_website }}">{{ link.location }}</a></b>
+          <b><a href="{{ link.conf_website }}">{{ link.location }}</a></b> - Upcoming ({{ link.date }})
         {% else%}
-          Upcoming ({{ link.date }}) - <b>{{ link.location }}</b>
+          <b>{{ link.location }}</b> - Upcoming ({{ link.date }})
         {% endif %}
       {% endif %}
   </div>
@@ -29,15 +29,15 @@
   <div class="col-sm-9">
       {% if link.conf %}      
         {% if link.spec_session %}
-          {{ link.date }} - <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b>, {{ link.spec_session}} {{ link.location }} 
+          <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b>, {{ link.spec_session}} {{ link.location }} - {{ link.date }}
         {% else %}
-          {{ link.date }} - <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b> {{ link.location }}
+          <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b> {{ link.location }} - {{ link.date }}
         {% endif %}
       {% else %}
         {% if link.conf_website %}
-          {{ link.date }} - <b><a href="{{ link.conf_website }}">{{ link.location }}</a></b>
+          <b><a href="{{ link.conf_website }}">{{ link.location }}</a></b> - {{ link.date }}
         {% else%}
-          {{ link.date }} - <b>{{ link.location }}</b>
+          <b>{{ link.location }}</b> - {{ link.date }}
         {% endif %}
       {% endif %}
   </div>
