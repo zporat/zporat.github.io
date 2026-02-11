@@ -3,7 +3,7 @@
 
 {% for link in site.data.talks.upcoming %}
 
-<li style="margin-bottom:0.5rem">
+<li style="margin-bottom:0.3rem">
   <div class="col-sm-9">
       {% if link.conf %}      
         {% if link.spec_session %}
@@ -25,7 +25,7 @@
 
 {% for link in site.data.talks.past %}
 
-<li>
+<li style="margin-bottom:0.3rem">
   <div class="col-sm-9">
       {% if link.conf %}      
         {% if link.spec_session %}
