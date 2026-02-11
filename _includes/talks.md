@@ -3,7 +3,7 @@
 
 {% for link in site.data.talks.upcoming %}
 
-<li style="margin-bottom:1rem">
+<li style="margin-bottom:0.5rem">
   <div class="col-sm-9">
       {% if link.conf %}      
         {% if link.spec_session %}
@@ -12,7 +12,11 @@
           <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b> {{ link.location }} - Upcoming ({{ link.date }})
         {% endif %}
       {% else %}
-        <b><a href="{{ link.conf_website }}">{{ link.location }}</a></b> - Upcoming ({{ link.date }})
+        {% if link.conf_website %}
+          <b><a href="{{ link.conf_website }}">{{ link.location }}</a></b> - Upcoming ({{ link.date }})
+        {% else%}
+          <b>{{ link.location }}</b> - Upcoming ({{ link.date }})
+        {% endif %}
       {% endif %}
   </div>
 </li>
@@ -21,7 +25,7 @@
 
 {% for link in site.data.talks.past %}
 
-<li style="margin-bottom:1rem">
+<li style="margin-bottom:0.5rem">
   <div class="col-sm-9">
       {% if link.conf %}      
         {% if link.spec_session %}
@@ -30,7 +34,11 @@
           <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b> {{ link.location }} - {{ link.date }}
         {% endif %}
       {% else %}
-        <b><a href="{{ link.conf_website }}">{{ link.location }}</a></b> - {{ link.date }}
+        {% if link.conf_website %}
+          <b><a href="{{ link.conf_website }}">{{ link.location }}</a></b> - {{ link.date }}
+        {% else%}
+          <b>{{ link.location }}</b> - {{ link.date }}
+        {% endif %}
       {% endif %}
   </div>
 </li>
