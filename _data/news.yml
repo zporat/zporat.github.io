@@ -1,4 +1,9 @@
 new:
+  - title: "UIC Number Theory Seminar"
+    link: /research#talks
+    description: "On April 10, 2026, I will be speaking at the University of Illinois Chicago Number Theory Seminar."
+    category: Talks
+
   - title: "New Publication"
     link: /research#papers
     description: "My paper titled ''Computations Directly on the Cuspidal Cohomology of Congruence Subgroups of SL(3,&nbsp;**Z**)'' was recently published in *[Mathematics of Computation](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2025-04155-3/?active=current)*."
@@ -9,9 +14,8 @@ new:
     description: "[Jeff Hatley](https://www.math.union.edu/~hatleyj/) and I will be co-leading a [project](https://sites.google.com/view/rethinkingnumbertheory/projects#h.e4lq3fl7mv93) as part of the upcoming [Rethinking Number Theory](https://sites.google.com/view/rethinkingnumbertheory/home) (RNT7)."
     category: Mentorship
 
+old:
   - title: "Five College Number Theory Seminar"
     link: /research#talks
     description: "On February 10, 2026, I will be speaking at the [Five College Number Theory Seminar](https://dmzb.github.io/FCNTS.github.io/)."
     category: Talks
-
-old:

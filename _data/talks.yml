@@ -1,10 +1,18 @@
 upcoming:
   - title: Computations on the Cuspidal Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
+    location: UIC Number Theory Seminar
+    date: April 10, 2026
+
+past:   
+  - title: Computations on the Cuspidal Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
     location: Five College Number Theory Seminar
     date: February 10, 2026
     conf_website: https://researchseminars.org/seminar/FCNTS
 
-past:   
+  - title: Computations on the Cuspidal Cohomology for GL(3) Automorphic Forms
+    location: Wesleyan Algebra and Number Theory Seminar
+    date: February 6, 2026
+
   - title: On the Cuspidal Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
     location: UConn Algebra Seminar
     date: December 3, 2025

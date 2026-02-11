@@ -5,14 +5,16 @@
 
 <li style="margin-bottom:1rem">
   <div class="col-sm-9">
-      <div class="title"><b>{{ link.title }}</b> - Upcoming ({{ link.date }})</div>
-      <ul class="fa-ul" style="margin-left:25px">
-      {% if link.spec_session %}
-        <li><span class="fa-li"><i class="fas fa-map-pin"></i></span><a href="{{ link.conf_website }}">{{ link.conf }}</a>: {{ link.spec_session}} {{ link.location }}</li>
+      <div class="title">
+      {% if link.conf %}      
+        {% if link.spec_session %}
+          <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b>, {{ link.spec_session}} {{ link.location }} - Upcoming ({{ link.date }})
+        {% else %}
+          <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b> {{ link.location }} - Upcoming ({{ link.date }})
+        {% endif %}
       {% else %}
-        <li><span class="fa-li"><i class="fas fa-map-pin"></i></span><a href="{{ link.conf_website }}">{{ link.conf }}</a> {{ link.location }}</li>
-      {% endif %}
-      </ul>
+        <b><a href="{{ link.conf_website }}">{{ link.location }}</a></b> - Upcoming ({{ link.date }})
+      </div>
   </div>
 </li>
 
@@ -22,14 +24,16 @@
 
 <li style="margin-bottom:1rem">
   <div class="col-sm-9">
-      <div class="title"><b>{{ link.title }}</b> - {{ link.date }}</div>
-      <ul class="fa-ul" style="margin-left:25px">
-      {% if link.spec_session %}
-        <li><span class="fa-li"><i class="fas fa-map-pin"></i></span><a href="{{ link.conf_website }}">{{ link.conf }}</a>: {{ link.spec_session}} {{ link.location }}</li>
+      <div class="title">
+      {% if link.conf %}      
+        {% if link.spec_session %}
+          <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b>, {{ link.spec_session}} {{ link.location }} - Upcoming ({{ link.date }})
+        {% else %}
+          <b><a href="{{ link.conf_website }}">{{ link.conf }}</a></b> {{ link.location }} - Upcoming ({{ link.date }})
+        {% endif %}
       {% else %}
-        <li><span class="fa-li"><i class="fas fa-map-pin"></i></span><a href="{{ link.conf_website }}">{{ link.conf }}</a> {{ link.location }}</li>
-      {% endif %}
-      </ul>
+        <b><a href="{{ link.conf_website }}">{{ link.location }}</a></b> - Upcoming ({{ link.date }})
+      </div>
   </div>
 </li>
 
