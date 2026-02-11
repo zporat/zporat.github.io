@@ -25,7 +25,7 @@
 
 {% for link in site.data.talks.past %}
 
-<li style="margin-bottom:0.5rem">
+<li>
   <div class="col-sm-9">
       {% if link.conf %}      
         {% if link.spec_session %}
