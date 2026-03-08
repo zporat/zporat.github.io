@@ -1,6 +1,21 @@
 upcoming:
 
 past:
+  - title: UIC Number Theory Seminar
+    location: University of Illinois Chicago
+    coordinates: 41.87094947751841, -87.65045061719555
+    date: March 2026
+
+  - title: Five College Number Theory Seminar
+    location: Amherst College
+    coordinates: 42.39552322792236, -72.52754500981929
+    date: February 2026
+
+  - title: UConn Algebra Seminar
+    location: University of Connecticut
+    coordinates: 41.80724878028431, -72.24917560157064
+    date: December 2025
+
   - title: AMS Fall Southeastern Sectional Meeting
     location: Tulane University
     coordinates: 29.94121460674283, -90.12024043756436
