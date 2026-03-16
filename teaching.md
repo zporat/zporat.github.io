@@ -9,7 +9,7 @@ permalink: /teaching
 
 ## <a name="teaching"></a> Teaching
 
-I am teaching Graduate Pedagogy in Fall 2025.  
+I am not teaching in Spring 2026.  
 
 While at Wesleyan, I have taught [Calculus I](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005517&term=1249) and [Elementary Statistics](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005525&term=1229).  I have also been a Teaching Assistant for several courses and worked in the [Math Workshop](https://www.wesleyan.edu/mathcs/math/math_workshop.html).  
 
