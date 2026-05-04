@@ -21,7 +21,7 @@ For additional details, please see my CV: <a href="{{ site.cv_link }}" class="bu
 
 In Summer 2026, [Jeff Hatley](https://www.math.union.edu/~hatleyj/) and I will be co-leading a [project](https://sites.google.com/view/rethinkingnumbertheory/projects#h.e4lq3fl7mv93) as part of the upcoming [Rethinking Number Theory](https://sites.google.com/view/rethinkingnumbertheory/home) (RNT7).  Applications are now open! 
 
-While at Wesleyan, I have run several mentorship projects as part of our [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).  If you are interested in proposing a topic (especially those related to number theory and algebraic geometry), please get in touch! 
+While at Wesleyan, I have run several mentorship projects as part of our [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).
 
 In Spring 2025, I presented a mini-course on mathematical cryptology at [SWiM@Wes 2025](https://mathcs-graduate.wescreates.wesleyan.edu/ams/swim-2025/) and served as a project assistant at [Arithmetic Geometry at UNT](https://sites.google.com/view/arithmetic-geometry-at-unt/).
 
@@ -29,11 +29,7 @@ In Spring 2025, I presented a mini-course on mathematical cryptology at [SWiM@We
 
 ## <a name="service"></a> Service
 
-I am currently one of the organizers of Wesleyan's [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).  
-
-I previously served as President (Fall 2023--Spring 2025) and Vice President (Fall 2021--Spring 2023) of Wesleyan's [AMS Graduate Student Chapter](https://mathcs-graduate.wescreates.wesleyan.edu/ams/).  
-
-Additionally, from Spring 2022 through Fall 2023, I was a co-organizer of Wesleyan's [Graduate Student Seminar](https://mathcs-graduate.wescreates.wesleyan.edu/gss/).
+While at Wesleyan, I was one of the organizers of the [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/) (Spring 2023--Spring 2025), I was President (Fall 2023--Spring 2025) and Vice President (Fall 2021--Spring 2023) of our [AMS Graduate Student Chapter](https://mathcs-graduate.wescreates.wesleyan.edu/ams/), and I was a co-organizer of the [Graduate Student Seminar](https://mathcs-graduate.wescreates.wesleyan.edu/gss/) (Spring 2022--Fall 2023).
 
 ---
 
