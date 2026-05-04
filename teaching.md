@@ -29,7 +29,11 @@ In Spring 2025, I presented a mini-course on mathematical cryptology at [SWiM@We
 
 ## <a name="service"></a> Service
 
-While at Wesleyan, I was one of the organizers of the [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/) (Spring 2023--Spring 2025), I was President (Fall 2023--Spring 2025) and Vice President (Fall 2021--Spring 2023) of our [AMS Graduate Student Chapter](https://mathcs-graduate.wescreates.wesleyan.edu/ams/), and I was a co-organizer of the [Graduate Student Seminar](https://mathcs-graduate.wescreates.wesleyan.edu/gss/) (Spring 2022--Fall 2023).
+While at Wesleyan, I was one of the organizers of the [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/) (Spring 2023--Spring 2025).  
+
+I also previously served as President (Fall 2023--Spring 2025) and Vice President (Fall 2021--Spring 2023) of the [AMS Graduate Student Chapter](https://mathcs-graduate.wescreates.wesleyan.edu/ams/).  
+
+Additionally, I was a co-organizer of the [Graduate Student Seminar](https://mathcs-graduate.wescreates.wesleyan.edu/gss/) (Spring 2022--Fall 2023).
 
 ---
 
