@@ -8,9 +8,13 @@ layout: homepage
 
 ## <a name="about"></a> About Me
 
-My name is Zachary (Zack) Porat.  In Fall 2026, I will be starting as a Visiting Assistant Professor of Mathematics at [Bucknell University](https://www.bucknell.edu/academics/college-arts-sciences/academic-departments-programs/mathematics-statistics).  My [research](https://zporat.github.io/research) interests lie in number theory and arithmetic geometry, with a particular focus on computations related to GL(3) automorphic forms. 
+My name is Zachary (Zack) Porat.  In Fall 2026, I will be starting as a Visiting Assistant Professor of Mathematics at [Bucknell University](https://www.bucknell.edu/academics/college-arts-sciences/academic-departments-programs/mathematics-statistics).  
 
-I received my PhD from [Wesleyan University](https://www.wesleyan.edu/mathcs/) in 2026; my advisor was [David Pollack](https://dpollack.web.wesleyan.edu/).  Before Wesleyan, I obtained my B.S. in Mathematics from [Union College](https://www.union.edu/mathematics).  Outside of math, I enjoy [bouldering](https://zporat.github.io/files/pictures/bouldering.jpg) and playing trumpet.  I also occasionally [blog](https://zporat.github.io/blog.html) about my travels as a mathematician. 
+My research interests lie in number theory and arithmetic geometry, with a focus on the interplay between theory and computation.  In particular, I am interested in computations related to GL(3) automorphic forms. 
+
+I received my PhD from [Wesleyan University](https://www.wesleyan.edu/mathcs/), advised by [David Pollack](https://dpollack.web.wesleyan.edu/).  Before Wesleyan, I obtained my BS in Mathematics from [Union College](https://www.union.edu/mathematics).  
+
+Outside of math, I enjoy [bouldering](https://zporat.github.io/files/pictures/bouldering.jpg) and playing trumpet.  I also occasionally [blog](https://zporat.github.io/blog.html) about my travels as a mathematician. 
 
 Here is a copy of my CV, last updated in March 2026: <a href="{{ site.cv_link }}" class="button" style="font-size:12px;"><i class="fas fa-file-alt" aria-hidden="true"></i>&nbsp; PDF</a>
 
