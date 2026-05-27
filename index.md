@@ -8,11 +8,13 @@ layout: homepage
 
 ## <a name="about"></a> About Me
 
-My name is Zachary (Zack) Porat.  I am currently a PhD candidate in mathematics at [Wesleyan University](https://www.wesleyan.edu/mathcs/).  My advisor is [David Pollack](https://dpollack.web.wesleyan.edu/).
+My name is Zachary (Zack) Porat.  In Fall 2026, I will be starting as a Visiting Assistant Professor of Mathematics at [Bucknell University](https://www.bucknell.edu/academics/college-arts-sciences/academic-departments-programs/mathematics-statistics). 
 
 My research interests lie in number theory and arithmetic geometry.  I particularly enjoy the computational aspects of these subjects.  Currently, I am studying automorphic forms for congruence subgroups of SL(3,&nbsp;**Z**).  
 
-Before Wesleyan, I obtained my B.S. in Mathematics from [Union College](https://www.union.edu/mathematics).  Outside of math, I enjoy [bouldering](https://zporat.github.io/files/pictures/bouldering.jpg) and playing trumpet.  I also occasionally [blog](https://zporat.github.io/blog.html) about my travels as a grad student.
+I received my PhD from [Wesleyan University](https://www.wesleyan.edu/mathcs/) in 2026; my advisor was [David Pollack](https://dpollack.web.wesleyan.edu/).  Before Wesleyan, I obtained my B.S. in Mathematics from [Union College](https://www.union.edu/mathematics).  
+
+Outside of math, I enjoy [bouldering](https://zporat.github.io/files/pictures/bouldering.jpg) and playing trumpet.  I also occasionally [blog](https://zporat.github.io/blog.html) about my travels as a grad student.
 
 Here is a copy of my CV, last updated in March 2026: <a href="{{ site.cv_link }}" class="button" style="font-size:12px;"><i class="fas fa-file-alt" aria-hidden="true"></i>&nbsp; PDF</a>
 
