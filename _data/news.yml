@@ -1,7 +1,7 @@
 new:
   - title: "New Publication"
     link: /research#papers
-    description: "My joint paper with Thomas Bouchet, Erik Davis, Steven Groen, and Ben York titled ''Heuristics for (Ir)reducibility of p-Rank Strata of the Moduli Space of Hyperelliptic Curves'' was recently published in *[Experimental Mathematics](https://www.tandfonline.com/journals/uexm20)*."
+    description: "My joint paper with Thomas Bouchet, Erik Davis, Steven Groen, and Ben York titled ''Heuristics for (Ir)reducibility of p-Rank Strata of the Moduli Space of Hyperelliptic Curves'' was recently published in *[Experimental Mathematics](https://www.tandfonline.com/doi/full/10.1080/10586458.2026.2671126)*."
     category: Papers
 
   - title: "Rethinking Number Theory"

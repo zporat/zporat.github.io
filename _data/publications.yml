@@ -3,7 +3,7 @@ main:
     authors: with Thomas Bouchet, Erik Davis, Steven Groen, and Benjamin York
     arxiv: https://arxiv.org/abs/2506.06457
     code: https://github.com/Thittho/Non-ordinary-locus
-    status: to appear in <a href="https://www.tandfonline.com/journals/uexm20"><i>Experimental Mathematics</i></a>
+    status: to appear in <a href="https://www.tandfonline.com/doi/full/10.1080/10586458.2026.2671126"><i>Experimental Mathematics</i></a>
     year: 2026
 
   - title: Computations Directly on the Cuspidal Cohomology of Congruence Subgroups of SL(3,&nbsp;Z)
