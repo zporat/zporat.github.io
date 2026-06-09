@@ -21,9 +21,9 @@ For additional details, please see my CV: <a href="{{ site.cv_link }}" class="bu
 
 In Summer 2026, [Jeff Hatley](https://www.math.union.edu/~hatleyj/) and I will be co-leading a [project](https://sites.google.com/view/rethinkingnumbertheory/projects#h.e4lq3fl7mv93) as part of the upcoming [Rethinking Number Theory](https://sites.google.com/view/rethinkingnumbertheory/home) (RNT7).
 
-While at Wesleyan, I ran several mentorship projects as part of the [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).
+In Spring 2025, I presented a mini-course on mathematical cryptology at [SWiM@Wes 2025](https://mathcs-graduate.wescreates.wesleyan.edu/ams/swim-2025/) and served as a project assistant at [Arithmetic Geometry at UNT](https://sites.google.com/view/arithmetic-geometry-at-unt/).  
 
-In Spring 2025, I presented a mini-course on mathematical cryptology at [SWiM@Wes 2025](https://mathcs-graduate.wescreates.wesleyan.edu/ams/swim-2025/) and served as a project assistant at [Arithmetic Geometry at UNT](https://sites.google.com/view/arithmetic-geometry-at-unt/).
+Additionally, while at Wesleyan, I ran several mentorship projects as part of the [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).
 
 ---
 
