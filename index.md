@@ -8,7 +8,7 @@ layout: homepage
 
 ## <a name="about"></a> About Me
 
-My name is Zachary (Zack) Porat.  In Fall 2026, I will be starting as a Visiting Assistant Professor of Mathematics at [Bucknell University](https://www.bucknell.edu/academics/college-arts-sciences/academic-departments-programs/mathematics-statistics).  
+Hi there!  My name is Zack and I am a Visiting Assistant Professor of Mathematics at [Bucknell University](https://www.bucknell.edu/academics/college-arts-sciences/academic-departments-programs/mathematics-statistics).  
 
 My research interests lie in number theory and arithmetic geometry, with a focus on the interplay between theory and computation.  In particular, I am interested in computations related to GL(3) automorphic forms. 
 

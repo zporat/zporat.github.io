@@ -9,7 +9,7 @@ permalink: /teaching
 
 ## <a name="teaching"></a> Teaching
 
-I am not teaching in Spring 2026.  
+In Fall 2026, I am teaching one section of Linear Algebra (Math 245) and two sections of Calculus I (Math 201).
 
 At Wesleyan, I taught [Calculus I](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005517&term=1249) and [Elementary Statistics](https://owaprod-pub.wesleyan.edu/reg/!wesmaps_page.html?stuid=&crse=005525&term=1229).  I was also Teaching Assistant for several courses and worked in the [Math Workshop](https://www.wesleyan.edu/mathcs/math/math_workshop.html).  
 
@@ -19,11 +19,11 @@ For additional details, please see my CV: <a href="{{ site.cv_link }}" class="bu
 
 ## <a name="mentorship"></a> Mentorship
 
-In Summer 2026, [Jeff Hatley](https://www.math.union.edu/~hatleyj/) and I will be co-leading a [project](https://sites.google.com/view/rethinkingnumbertheory/projects#h.e4lq3fl7mv93) as part of the upcoming [Rethinking Number Theory](https://sites.google.com/view/rethinkingnumbertheory/home) (RNT7).
+In Summer 2026, [Jeff Hatley](https://www.math.union.edu/~hatleyj/) and I co-led a [project](https://sites.google.com/view/rethinkingnumbertheory/projects#h.e4lq3fl7mv93) as part of [Rethinking Number Theory](https://sites.google.com/view/rethinkingnumbertheory/home) (RNT7).
 
 In Spring 2025, I presented a mini-course on mathematical cryptology at [SWiM@Wes 2025](https://mathcs-graduate.wescreates.wesleyan.edu/ams/swim-2025/) and served as a project assistant at [Arithmetic Geometry at UNT](https://sites.google.com/view/arithmetic-geometry-at-unt/).  
 
-Additionally, while at Wesleyan, I ran several mentorship projects as part of the [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).
+Additionally, while at Wesleyan, I ran several mentorship projects as part of the [Directed Reading Program](https://mathcs-graduate.wescreates.wesleyan.edu/drp/).  
 
 ---
 
