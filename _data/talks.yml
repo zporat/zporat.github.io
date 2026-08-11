@@ -1,6 +1,13 @@
 upcoming:
+  - location: Joint Math Meetings
+    conf_website: https://meetings.ams.org/math/jmm2027/meetingapp.cgi/Home/0
+    date: January 13, 2027
+    spec_session: "Explicit Methods in Number Theory"
 
 past:   
+  - location: Bucknell University Math Colloquium
+    date: April 3, 2026
+
   - location: CSUB Math Seminar
     date: March 27, 2026
 
