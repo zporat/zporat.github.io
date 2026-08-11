@@ -19,7 +19,7 @@ For additional details, please see my CV: <a href="{{ site.cv_link }}" class="bu
 
 ## <a name="mentorship"></a> Mentorship
 
-In Summer 2026, [Jeff Hatley](https://www.math.union.edu/~hatleyj/) and I co-led a [project](https://sites.google.com/view/rethinkingnumbertheory/projects#h.e4lq3fl7mv93) as part of [Rethinking Number Theory](https://sites.google.com/view/rethinkingnumbertheory/home) (RNT7).  
+In Summer 2026, [Jeff Hatley](https://www.math.union.edu/~hatleyj/) and I co-led a [project](https://sites.google.com/view/rethinkingnumbertheory/projects#h.e4lq3fl7mv93) as part of [Rethinking Number Theory](https://sites.google.com/view/rethinkingnumbertheory/home) (RNT7).  Our work culminated in a paper titled ''Distinguishing Elliptic Curves Modulo p and Identifying Images of Product Representations'' (see [here](https://zporat.github.io/research#papers))! 
 
 In Spring 2025, I presented a mini-course on mathematical cryptology at [SWiM@Wes 2025](https://mathcs-graduate.wescreates.wesleyan.edu/ams/swim-2025/) and served as a project assistant at [Arithmetic Geometry at UNT](https://sites.google.com/view/arithmetic-geometry-at-unt/).  
 
