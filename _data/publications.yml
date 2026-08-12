@@ -1,7 +1,7 @@
 main:
   - title: Distinguishing Elliptic Curves Modulo p and Identifying Images of Product Representations
     authors: with Jessica Bennett, Jeffrey Hatley, Sasha Kononova, Vincent Macri, and Naina Praveen
-    arxiv: 
+    arxiv: https://arxiv.org/abs/2608.10880
     code: https://github.com/zporat/prod-reps-ncr/
     status: submitted
     year: 2026
