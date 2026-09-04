@@ -1,11 +1,16 @@
 main:
+  - title: On the Cuspidal Cohomology of Iwahori Congruence Subgroups of SL(3,&nbsp;Z)
+    arxiv: https://arxiv.org/abs/2609.01776
+    code: https://github.com/zporat/GL3-Iwahori-C
+    status: submitted
+    year: 2026
+
   - title: Distinguishing Elliptic Curves Modulo p and Identifying Images of Product Representations
     authors: with Jessica Bennett, Jeffrey Hatley, Sasha Kononova, Vincent Macri, and Naina Praveen
     arxiv: https://arxiv.org/abs/2608.10880
     code: https://github.com/zporat/prod-reps-ncr/
     status: submitted
     year: 2026
-
 
   - title: Heuristics for (Ir)reducibility of p-Rank Strata of the Moduli Space of Hyperelliptic Curves
     authors: with Thomas Bouchet, Erik Davis, Steven Groen, and Benjamin York
