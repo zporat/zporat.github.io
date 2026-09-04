@@ -1,4 +1,8 @@
 upcoming:
+  - title: Joint Math Meetings 
+    location: Chicago, IL
+    coordinates: 41.85242974871575, -87.61186667458081
+    date: January 2027
 
 past:
   - title: UIC Number Theory Seminar
