@@ -15,7 +15,9 @@ The job search is an incredibly long journey.  Many people compare the job searc
 
 The job search is about connections (I know, how cliche).  But, building a network of folks who know you is a valuable tool for a few reasons.  First, before you even start applications, connections will lead to invitations to give talks at conferences and in seminars.  Learning to give a good math talk is an incredibly important skill in and of itself—you will most likely be asked to give one during any in-person job interview—but these talks are also important for building your CV.  Talks also open topics of conversations when you visit for interviews:
 
-> Interviewer: "Oh, I saw on your CV that you visited PLACE, I know PERSON, did you get a chance to chat with them?"
+<div style="border-left: 4px solid #38C; padding-left: 10px; margin-bottom: 15px;">
+Interviewer: "Oh, I saw on your CV that you visited PLACE, I know PERSON, did you get a chance to chat with them?"
+</div>
 
 Second, if you are applying to research postdocs especially, knowing potential mentors (and them knowing you) is really important when you apply.  Send an email letting them know that you have applied if you hope to work with them.  Moreoever, no matter the type of job, if you know someone personally at the school, definitely reach out.  
 
