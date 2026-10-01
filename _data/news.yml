@@ -1,4 +1,9 @@
 new:
+  - title: "Upcoming Talks"
+    link: /research#talks
+    description: "I will be speaking at the Lafayette College Math Colloquium on October 29, 2026 and at the Joint Math Meetings in the Special Session on Explicit Methods in Number Theory on January 13, 2027."
+    category: Talks
+
   - title: "New Preprint"
     link: /research#papers
     description: "My preprint titled ''On the Cuspidal Cohomology of Iwahori Congruence Subgroups of SL(3,&nbsp;**Z**)'' was recently posted to the [arXiv](https://arxiv.org/abs/2609.01776)."
