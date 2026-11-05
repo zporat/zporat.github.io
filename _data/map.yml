@@ -1,10 +1,20 @@
 upcoming:
+  - title: AMS Spring Eastern Sectional
+    location: Syracuse, NY
+    coordinates: 43.03678699735825, -76.13405611869686
+    date: April 2027
+
   - title: Joint Math Meetings 
     location: Chicago, IL
     coordinates: 41.85242974871575, -87.61186667458081
     date: January 2027
 
 past:
+  - title: Lafayette College Math Colloquium
+    location: Lafayette College
+    coordinates: 40.698158190657566, -75.20791667492426
+    date: October 2026
+
   - title: UIC Number Theory Seminar
     location: University of Illinois Chicago
     coordinates: 41.87094947751841, -87.65045061719555
