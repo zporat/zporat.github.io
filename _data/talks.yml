@@ -1,13 +1,17 @@
 upcoming:
+  - conf: AMS Spring Eastern Sectional
+    date: April 11, 2027
+    spec_session: "Special Session on Number Theory at PUIs"
+
   - conf: Joint Math Meetings
     conf_website: https://meetings.ams.org/math/jmm2027/meetingapp.cgi/Home/0
     date: January 13, 2027
     spec_session: "Special Session on Explicit Methods in Number Theory"
 
+past:   
   - location: Lafayette College Math Colloquium
     date: October 29, 2026
 
-past:   
   - location: Bucknell University Math Colloquium
     date: April 3, 2026
 
