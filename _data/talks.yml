@@ -1,5 +1,6 @@
 upcoming:
   - conf: AMS Spring Eastern Sectional
+    conf_website: https://meetings.ams.org/math/spring2027e/meetingapp.cgi/Home/0
     date: April 11, 2027
     spec_session: "Special Session on Number Theory at PUIs"
 
